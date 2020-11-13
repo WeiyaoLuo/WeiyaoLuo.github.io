@@ -34,20 +34,25 @@ My research interests lie in natural language processing, especially information
 
 ----------------------------
 
-# Research Experience
+# Internship
 
-<!-- [**ByteDance AI Lab**](https://ailab.bytedance.com), *Feb. 2020 -- Sep. 2020*
+[**ByteDance AI Lab**](https://ailab.bytedance.com), *Feb. 2020 -- Sep. 2020*
 
-- Research Intern advised by [Dr. Lei Li](https://lileicc.github.io) and [Dr. Hao Zhou](https://zhouh.github.io).
-- Research topic: computer aided drug discovery. -->
+- Research Intern advised by [Dr. Lei Li](https://lileicc.github.io), [Dr. Mingxuan Wang](https://scholar.google.com/citations?user=hOQ6G6EAAAAJ&hl=en), and Jun Cao.
+- Research topic: Machine learning, Information Extraction.
+
+[**Microsoft C+AI**](https://www.microsoftpartnercommunity.com/t5/Cloud-AI/ct-p/cloud-ai), *July. 2019 -- October. 2019*
+
+- Software Design Engineer Intern advised by [Rome Li](https://github.com/akaroml), and [Jinbo Wang](https://github.com/testforstephen).
+- Topic: develop a vscode code extension [vscode-maven](https://github.com/microsoft/vscode-maven/graphs/contributors).
 
 ----------------------------
 
 # Publications and Manuscripts
 
-<!-- Visual Rhythm Prediction with Feature-Aligned Network \[[PDF](http://www.mva-org.jp/Proceedings/2019/papers/05-20.pdf)\] \\
-**Y. Xie**, H. Wang, Y. Hao, Z. Xu\\
-Proceedings of [the 16th IAPR International Conference on Machine Vision Applications Conference (MVA 2019)](http://www.mva-org.jp/Proceedings/2019/). -->
+Double Graph Based Reasoning for Document-level Relation Extraction \[[PDF](https://arxiv.org/pdf/2009.13752.pdf)\] \[[code](https://github.com/DreamInvoker/GAIN)\] \\
+Shuang Zeng$^*$, **Runxin Xu**$^*$, Baobao Chang, Lei Li\\
+[EMNLP2020] (https://2020.emnlp.org/).
 
 ----------------------------
 

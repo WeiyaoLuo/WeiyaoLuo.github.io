@@ -50,8 +50,10 @@ My research interests lie in natural language processing, especially information
 
 # Publications and Manuscripts
 
+<sup>TM</sup> means equal contribution.
+
 Double Graph Based Reasoning for Document-level Relation Extraction \[[PDF](https://arxiv.org/pdf/2009.13752.pdf)\] \[[code](https://github.com/DreamInvoker/GAIN)\] \\
-Shuang Zeng$^*$, **Runxin Xu**$^*$, Baobao Chang, Lei Li \\
+Shuang Zeng<sup>*</sup>, **Runxin Xu**<sup>*</sup>, Baobao Chang, Lei Li \\
 [EMNLP2020] (https://2020.emnlp.org/).
 
 Volctrans Parallel Corpus Filtering System for WMT 2020 \[[PDF](https://arxiv.org/pdf/2010.14029.pdf)\] \\

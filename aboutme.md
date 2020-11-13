@@ -25,7 +25,7 @@ My research interests lie in natural language processing, especially information
 [**Peking University**](https://www.pku.edu.cn/), *Sep. 2020 - Present*
 
 - Master student at the [School of EECS](https://eecs.pku.edu.cn/).
-- Advised by [Dr. Baobao Chang](https://icl.pku.edu.cn/cy/cbb/index.htm) and [Dr. Zhifang Sui](https://icl.pku.edu.cn/cy/szf/ywb/index.htm) in the [Institute of Computational Linguistics](https://icl.pku.edu.cn/).
+- Advised by [Dr. Baobao Chang](https://icl.pku.edu.cn/cy/cbb/index.htm) and [Dr. Zhifang Sui](https://icl.pku.edu.cn/cy/szf/ywb/index.htm) in [Institute of Computational Linguistics](https://icl.pku.edu.cn/).
 
 [**Shanghai Jiao Tong University**](https://www.sjtu.edu.cn/), *Sep. 2016 - Jun. 2020*
 
@@ -77,7 +77,7 @@ Xunpeng Huang, Hao Zhou, **Runxin Xu**, Zhe Wang, Lei Li \\
 
 # Teaching Experience
 
-- Introduction to Computation, Teaching Assistant, *Fall 2020*
+- Introduction to Computing (Category C), Teaching Assistant, *Fall 2020*
 
 ----------------------------
 

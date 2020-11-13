@@ -54,23 +54,23 @@ My research interests lie in natural language processing, especially information
 
 Double Graph Based Reasoning for Document-level Relation Extraction \[[PDF](https://arxiv.org/pdf/2009.13752.pdf)\] \[[code](https://github.com/DreamInvoker/GAIN)\] \\
 Shuang Zeng<sup>*</sup>, **Runxin Xu**<sup>*</sup>, Baobao Chang, Lei Li \\
-[EMNLP2020] (https://2020.emnlp.org/).
+[EMNLP2020](https://2020.emnlp.org/).
 
 Volctrans Parallel Corpus Filtering System for WMT 2020 \[[PDF](https://arxiv.org/pdf/2010.14029.pdf)\] \\
 **Runxin Xu**, Zhuo Zhi, Jun Cao, Mingxuan Wang, Lei Li \\
-[WMT2020] (http://www.statmt.org/wmt20/).
+[WMT2020](http://www.statmt.org/wmt20/).
 
 Xiaomingbot: A Multilingual Robot News Reporter \[[PDF](https://www.aclweb.org/anthology/2020.acl-demos.1.pdf)\] \\
 **Runxin Xu**, Jun Cao, Mingxuan Wang, Jiaze Chen, Hao Zhou, Ying Zeng, Yuping Wang, Li Chen, Xiang Yin, Xijin Zhang, Songcheng Jiang, Yuxuan Wang, Lei Li \\
-[ACL2020] (https://acl2020.org/).
+[ACL2020](https://acl2020.org/).
 
 ACMo: Angle-Calibrated Moment Methods for Stochastic Optimization \[[PDF](https://arxiv.org/pdf/2006.07065)\] \\
 Xunpeng Huang, **Runxin Xu**, Hao Zhou, Zhe Wang, Zhengyang Liu, Lei Li\\
-[arkiv] (https://arxiv.org/abs/2006.07065).
+[arkiv](https://arxiv.org/abs/2006.07065).
 
 Adaptive Gradient Methods Can Be Provably Faster than SGD after Finite Epochs \[[PDF](https://arxiv.org/pdf/2006.07037.pdf)\] \\
 Xunpeng Huang, Hao Zhou, **Runxin Xu**, Zhe Wang, Lei Li \\
-[arkiv] (https://arxiv.org/abs/2006.07037).
+[arkiv](https://arxiv.org/abs/2006.07037).
 
 ----------------------------
 

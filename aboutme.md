@@ -14,7 +14,7 @@ published: true
 
 <img align="left" src="/img/photo.jpeg" height="290" width="240" style="margin-right:50px;border:4px solid #ddd;border-radius:4px">
 
-I am Runxin Xu (许润昕), a master student at [Institute of Computational Linguistics](https://icl.pku.edu.cn/) in [School of EECS, Peking University](https://eecs.pku.edu.cn/). advised by [Dr. Baobao Chang](https://icl.pku.edu.cn/cy/cbb/index.htm) and [Dr. Zhifang Sui](https://icl.pku.edu.cn/cy/szf/ywb/index.htm). Prior to this, I earned my Bachelor's degree at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn) advised by [Dr. Xiaofeng Gao](http://www.cs.sjtu.edu.cn/~gao-xf/).
+I am Runxin Xu (许润昕), a master student at [Institute of Computational Linguistics](https://icl.pku.edu.cn/) in [School of EECS, Peking University](https://eecs.pku.edu.cn/), advised by [Dr. Baobao Chang](https://icl.pku.edu.cn/cy/cbb/index.htm) and [Dr. Zhifang Sui](https://icl.pku.edu.cn/cy/szf/ywb/index.htm). Prior to this, I earned my Bachelor's degree at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn) advised by [Dr. Xiaofeng Gao](http://www.cs.sjtu.edu.cn/~gao-xf/).
 
 My research interests lie in natural language processing, especially information extraction, machine translation, and pretraining.
 

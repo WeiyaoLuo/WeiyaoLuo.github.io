@@ -36,7 +36,7 @@ My research interests lie in natural language processing, especially information
 
 # Internship
 
-[**ByteDance AI Lab**](https://ailab.bytedance.com), *Feb. 2020 -- Sep. 2020*
+[**ByteDance AI Lab**](https://ailab.bytedance.com), *Nov. 2019 -- present*
 
 - Research Intern advised by [Dr. Lei Li](https://lileicc.github.io), [Dr. Mingxuan Wang](https://scholar.google.com/citations?user=hOQ6G6EAAAAJ&hl=en), and Jun Cao.
 - Research topic: Machine learning, Information Extraction.
@@ -54,15 +54,15 @@ My research interests lie in natural language processing, especially information
 
 Double Graph Based Reasoning for Document-level Relation Extraction \[[PDF](https://arxiv.org/pdf/2009.13752.pdf)\] \[[code](https://github.com/DreamInvoker/GAIN)\] \\
 Shuang Zeng<sup>*</sup>, **Runxin Xu**<sup>*</sup>, Baobao Chang, Lei Li \\
-[EMNLP2020](https://2020.emnlp.org/).
+[In the Conference on Empirical Methods in Natural Language Processing (EMNLP)](https://2020.emnlp.org/), 2020.
 
 Volctrans Parallel Corpus Filtering System for WMT 2020 \[[PDF](https://arxiv.org/pdf/2010.14029.pdf)\] \\
 **Runxin Xu**, Zhuo Zhi, Jun Cao, Mingxuan Wang, Lei Li \\
-[WMT2020](http://www.statmt.org/wmt20/).
+[In Proceedings of the Fifth Conference on Machine Translation (WMT)](http://www.statmt.org/wmt20/), 2020.
 
 Xiaomingbot: A Multilingual Robot News Reporter \[[PDF](https://www.aclweb.org/anthology/2020.acl-demos.1.pdf)\] \\
 **Runxin Xu**, Jun Cao, Mingxuan Wang, Jiaze Chen, Hao Zhou, Ying Zeng, Yuping Wang, Li Chen, Xiang Yin, Xijin Zhang, Songcheng Jiang, Yuxuan Wang, Lei Li \\
-[ACL2020](https://acl2020.org/).
+[In the 58th Annual Meeting of the Association for Computational Linguistics (ACL)](https://acl2020.org/): System Demonstrations, 2020.
 
 ACMo: Angle-Calibrated Moment Methods for Stochastic Optimization \[[PDF](https://arxiv.org/pdf/2006.07065)\] \\
 Xunpeng Huang, **Runxin Xu**, Hao Zhou, Zhe Wang, Zhengyang Liu, Lei Li\\

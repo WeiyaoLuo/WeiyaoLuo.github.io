@@ -43,14 +43,14 @@ My research interests lie in natural language processing, especially information
 
 [**Microsoft C+AI**](https://www.microsoftpartnercommunity.com/t5/Cloud-AI/ct-p/cloud-ai), *July. 2019 -- October. 2019*
 
-- Software Design Engineer Intern advised by [Rome Li](https://github.com/akaroml), and [Jinbo Wang](https://github.com/testforstephen).
+- Software Design Engineer Intern advised by [Rome Li](https://github.com/akaroml), [Jinbo Wang](https://github.com/testforstephen), and [Yan Zhang](https://github.com/Eskibear).
 - Topic: develop a vscode code extension [vscode-maven](https://github.com/microsoft/vscode-maven/graphs/contributors).
 
 ----------------------------
 
 # Publications and Manuscripts
 
-<sup>TM</sup> means equal contribution.
+<sup>*</sup> means equal contribution.
 
 Double Graph Based Reasoning for Document-level Relation Extraction \[[PDF](https://arxiv.org/pdf/2009.13752.pdf)\] \[[code](https://github.com/DreamInvoker/GAIN)\] \\
 Shuang Zeng<sup>*</sup>, **Runxin Xu**<sup>*</sup>, Baobao Chang, Lei Li \\

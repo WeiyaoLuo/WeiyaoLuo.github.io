@@ -12,7 +12,7 @@ published: true
 
 ----------------------------
 
-<img align="left" src="/img/photo.jpg" height="280" width="210" style="margin-right:50px;border:4px solid #ddd;border-radius:4px">
+<img align="left" src="/img/photo.jpeg" height="280" width="210" style="margin-right:50px;border:4px solid #ddd;border-radius:4px">
 
 I am Runxin Xu (许润昕), a master student at [Institute of Computational Linguistics](https://icl.pku.edu.cn/) in [School of EECS, Peking University](https://eecs.pku.edu.cn/). advised by [Dr. Baobao Chang](https://icl.pku.edu.cn/cy/cbb/index.htm) and [Dr. Zhifang Sui](https://icl.pku.edu.cn/cy/szf/ywb/index.htm). Prior to this, I earned my Bachelor's degree at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn) advised by [Dr. Xiaofeng Gao](http://www.cs.sjtu.edu.cn/~gao-xf/).
 
@@ -83,7 +83,14 @@ Xunpeng Huang, Hao Zhou, **Runxin Xu**, Zhe Wang, Lei Li \\
 
 # Hornors & Awards
 
-<!-- - Outstanding Graduate of Shanghai Jiao Tong University, *2020* -->
+- National scholarship, * December 2019*
+- B-class scholarship in Shanghai Jiao Tong University, * December 2019*
+- Meritorious Winner in Interdisciplinary Contest In Modeling (top 8% of 11262 teams), * March 2018*
+- National scholarship, * December 2018*
+- A-class scholarship in Shanghai Jiao Tong University, * December 2018*
+- [Arawana scholarship](https://jjh.jinlongyu.cn/project/index.aspx?NC=105003002), * December 2017*
+- B-class scholarship in Shanghai Jiao Tong University, * December 2017*
+
 
 ----------------------------
 

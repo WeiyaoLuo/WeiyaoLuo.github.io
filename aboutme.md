@@ -52,7 +52,7 @@ My research interests lie in natural language processing, especially information
 
 <sup>*</sup> means equal contribution.
 
-Double Graph Based Reasoning for Document-level Relation Extraction \[[PDF](https://arxiv.org/pdf/2009.13752.pdf)\] \[[code](https://github.com/DreamInvoker/GAIN)\] \\
+Double Graph Based Reasoning for Document-level Relation Extraction \[[PDF](https://www.aclweb.org/anthology/2020.emnlp-main.127.pdf)\] \[[code](https://github.com/DreamInvoker/GAIN)\] \\
 Shuang Zeng<sup>*</sup>, **Runxin Xu**<sup>*</sup>, Baobao Chang, Lei Li \\
 [In the Conference on Empirical Methods in Natural Language Processing (EMNLP)](https://2020.emnlp.org/), 2020.
 

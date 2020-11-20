@@ -56,7 +56,7 @@ Double Graph Based Reasoning for Document-level Relation Extraction \[[PDF](http
 Shuang Zeng<sup>*</sup>, **Runxin Xu**<sup>*</sup>, Baobao Chang, Lei Li \\
 [In the Conference on Empirical Methods in Natural Language Processing (EMNLP)](https://2020.emnlp.org/), 2020.
 
-Volctrans Parallel Corpus Filtering System for WMT 2020 \[[PDF](https://arxiv.org/pdf/2010.14029.pdf)\] \\
+Volctrans Parallel Corpus Filtering System for WMT 2020 \[[PDF](http://www.statmt.org/wmt20/pdf/2020.wmt-1.112.pdf)\] \\
 **Runxin Xu**, Zhuo Zhi, Jun Cao, Mingxuan Wang, Lei Li \\
 [In Proceedings of the Fifth Conference on Machine Translation (WMT)](http://www.statmt.org/wmt20/), 2020. \\
 (We win the first prize in the competition and the result is reported [here](https://www.statmt.org/wmt20/pdf/2020.wmt-1.78.pdf).)

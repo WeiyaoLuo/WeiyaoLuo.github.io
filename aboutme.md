@@ -61,7 +61,7 @@ Volctrans Parallel Corpus Filtering System for WMT 2020 \[[PDF](https://arxiv.or
 [In Proceedings of the Fifth Conference on Machine Translation (WMT)](http://www.statmt.org/wmt20/), 2020. \\
 (We win the first prize in the competition and the result is reported [here](https://www.statmt.org/wmt20/pdf/2020.wmt-1.78.pdf).)
 
-Xiaomingbot: A Multilingual Robot News Reporter \[[PDF](https://www.aclweb.org/anthology/2020.acl-demos.1.pdf)\] \\
+Xiaomingbot: A Multilingual Robot News Reporter \[[PDF](https://www.aclweb.org/anthology/2020.acl-demos.1.pdf)\] \[[Report](https://syncedreview.com/2020/07/21/meet-bytedance-ais-xiaomingbot-worlds-first-multilingual-and-multimodal-ai-news-agent)\] \[[URL](https://xiaomingbot.github.io)\] \\
 **Runxin Xu**, Jun Cao, Mingxuan Wang, Jiaze Chen, Hao Zhou, Ying Zeng, Yuping Wang, Li Chen, Xiang Yin, Xijin Zhang, Songcheng Jiang, Yuxuan Wang, Lei Li \\
 [In the 58th Annual Meeting of the Association for Computational Linguistics (ACL)](https://acl2020.org/): System Demonstrations, 2020.
 

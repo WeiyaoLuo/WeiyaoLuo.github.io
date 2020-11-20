@@ -59,7 +59,7 @@ Shuang Zeng<sup>*</sup>, **Runxin Xu**<sup>*</sup>, Baobao Chang, Lei Li \\
 Volctrans Parallel Corpus Filtering System for WMT 2020 \[[PDF](https://arxiv.org/pdf/2010.14029.pdf)\] \\
 **Runxin Xu**, Zhuo Zhi, Jun Cao, Mingxuan Wang, Lei Li \\
 [In Proceedings of the Fifth Conference on Machine Translation (WMT)](http://www.statmt.org/wmt20/), 2020. \\
-(We win the first prize in the competition and the result is reported [here](https://www.statmt.org/wmt20/pdf/2020.wmt-1.78.pdf).
+(We win the first prize in the competition and the result is reported [here](https://www.statmt.org/wmt20/pdf/2020.wmt-1.78.pdf).)
 
 Xiaomingbot: A Multilingual Robot News Reporter \[[PDF](https://www.aclweb.org/anthology/2020.acl-demos.1.pdf)\] \\
 **Runxin Xu**, Jun Cao, Mingxuan Wang, Jiaze Chen, Hao Zhou, Ying Zeng, Yuping Wang, Li Chen, Xiang Yin, Xijin Zhang, Songcheng Jiang, Yuxuan Wang, Lei Li \\

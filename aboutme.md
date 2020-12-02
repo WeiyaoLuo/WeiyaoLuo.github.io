@@ -61,13 +61,13 @@ Volctrans Parallel Corpus Filtering System for WMT 2020 \[[PDF](http://www.statm
 [In Proceedings of the Fifth Conference on Machine Translation (WMT)](http://www.statmt.org/wmt20/), 2020. \\
 (We win the first prize in the competition and the result is reported [here](https://www.statmt.org/wmt20/pdf/2020.wmt-1.78.pdf).)
 
-Xiaomingbot: A Multilingual Robot News Reporter \[[PDF](https://www.aclweb.org/anthology/2020.acl-demos.1.pdf)\] \[[Report](https://syncedreview.com/2020/07/21/meet-bytedance-ais-xiaomingbot-worlds-first-multilingual-and-multimodal-ai-news-agent)\] \[[URL](https://xiaomingbot.github.io)\] \[[Youtube](https://www.youtube.com/watch?v=zNfaj_DV6-E)\] \\ 
+Xiaomingbot: A Multilingual Robot News Reporter \[[PDF](https://www.aclweb.org/anthology/2020.acl-demos.1.pdf)\] \[[Report](https://syncedreview.com/2020/07/21/meet-bytedance-ais-xiaomingbot-worlds-first-multilingual-and-multimodal-ai-news-agent)\] \[[URL](https://xiaomingbot.github.io)\] \[[Youtube](https://www.youtube.com/watch?v=zNfaj_DV6-E)\] \\
 **Runxin Xu**, Jun Cao, Mingxuan Wang, Jiaze Chen, Hao Zhou, Ying Zeng, Yuping Wang, Li Chen, Xiang Yin, Xijin Zhang, Songcheng Jiang, Yuxuan Wang, Lei Li \\
 [In the 58th Annual Meeting of the Association for Computational Linguistics (ACL)](https://acl2020.org/): System Demonstrations, 2020.
 
 ACMo: Angle-Calibrated Moment Methods for Stochastic Optimization \[[PDF](https://arxiv.org/pdf/2006.07065)\] \\
 Xunpeng Huang, **Runxin Xu**, Hao Zhou, Zhe Wang, Zhengyang Liu, Lei Li\\
-[arkiv](https://arxiv.org/abs/2006.07065).
+[In the 33rd AAAI Conference on Artificial Intelligence (AAAI)](https://aaai.org/Conferences/AAAI-21/), 2020.
 
 Adaptive Gradient Methods Can Be Provably Faster than SGD after Finite Epochs \[[PDF](https://arxiv.org/pdf/2006.07037.pdf)\] \\
 Xunpeng Huang, Hao Zhou, **Runxin Xu**, Zhe Wang, Lei Li \\

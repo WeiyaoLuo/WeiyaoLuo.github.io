@@ -36,7 +36,7 @@ My research interests lie in natural language processing, especially information
 
 # Internship
 
-[**ByteDance AI Lab**](https://ailab.bytedance.com), *Nov. 2019 -- present*
+[**ByteDance AI Lab**](https://ailab.bytedance.com), *Nov. 2019 -- Jan. 2021*
 
 - Research Intern advised by [Dr. Lei Li](https://lileicc.github.io), [Dr. Mingxuan Wang](https://scholar.google.com/citations?user=hOQ6G6EAAAAJ&hl=en), and Jun Cao.
 - Research topic: Machine learning, Information Extraction.

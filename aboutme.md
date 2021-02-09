@@ -75,13 +75,6 @@ Xunpeng Huang, Hao Zhou, **Runxin Xu**, Zhe Wang, Lei Li \\
 
 ----------------------------
 
-
-# Teaching Experience
-
-- Introduction to Computing (Category C), Teaching Assistant, *Fall 2020*
-
-----------------------------
-
 # Hornors & Awards
 
 - National scholarship, *December 2019*
@@ -91,6 +84,19 @@ Xunpeng Huang, Hao Zhou, **Runxin Xu**, Zhe Wang, Lei Li \\
 - A-class scholarship in Shanghai Jiao Tong University, *December 2018*
 - [Arawana scholarship](https://jjh.jinlongyu.cn/project/index.aspx?NC=105003002), *December 2017*
 - B-class scholarship in Shanghai Jiao Tong University, *December 2017*
+
+
+----------------------------
+
+# Teaching Experience
+
+- Introduction to Computing (Category C), Teaching Assistant, *Fall 2020*
+
+----------------------------
+
+# Academic Services
+
+- Reviewer: EACL2021
 
 
 ----------------------------

@@ -36,10 +36,15 @@ My research interests lie in natural language processing, especially information
 
 # Internship
 
+[**Alibaba Damo Academy**](https://damo.alibaba.com/), *Mar. 2021 -- present*
+
+- Research Intern advised by [Dr. Songfang Huang](https://www.linkedin.com/in/songfang), [Fuli Luo](https://luofuli.github.io).
+- Research topic: Pre-training and fine-tuning.
+
 [**ByteDance AI Lab**](https://ailab.bytedance.com), *Nov. 2019 -- Jan. 2021*
 
 - Research Intern advised by [Dr. Lei Li](https://lileicc.github.io), [Dr. Mingxuan Wang](https://scholar.google.com/citations?user=hOQ6G6EAAAAJ&hl=en), and Jun Cao.
-- Research topic: Machine learning, Information Extraction.
+- Research topic: Information Extraction, Machine Translation.
 
 [**Microsoft C+AI**](https://www.microsoftpartnercommunity.com/t5/Cloud-AI/ct-p/cloud-ai), *July. 2019 -- October. 2019*
 

@@ -57,8 +57,8 @@ My research interests lie in natural language processing, especially information
 
 <sup>*</sup> means equal contribution.
 
-Document-level Event Extraction via HeterogeneousGraph-based Interaction Model with a Tracker.
-**Runxin Xu**, Tianyu Liu, Lei Li，Baobao Chang.
+Document-level Event Extraction via HeterogeneousGraph-based Interaction Model with a Tracker. \\
+**Runxin Xu**, Tianyu Liu, Lei Li，Baobao Chang. \\
 ACL2021.
 
 Double Graph Based Reasoning for Document-level Relation Extraction. \[[PDF](https://www.aclweb.org/anthology/2020.emnlp-main.127.pdf)\] \[[code](https://github.com/DreamInvoker/GAIN)\] \\

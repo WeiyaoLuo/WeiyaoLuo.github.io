@@ -38,12 +38,12 @@ My research interests lie in natural language processing, especially information
 
 [**Alibaba Damo Academy**](https://damo.alibaba.com/), *Mar. 2021 -- present*
 
-- Research Intern advised by [Dr. Songfang Huang](https://www.linkedin.com/in/songfang), [Fuli Luo](https://luofuli.github.io).
+- Research Intern advised by [Dr. Songfang Huang](https://www.linkedin.com/in/songfang), and [Fuli Luo](https://luofuli.github.io).
 - Research topic: Pre-training and fine-tuning.
 
 [**ByteDance AI Lab**](https://ailab.bytedance.com), *Nov. 2019 -- Jan. 2021*
 
-- Research Intern advised by [Dr. Lei Li](https://lileicc.github.io), [Dr. Mingxuan Wang](https://scholar.google.com/citations?user=hOQ6G6EAAAAJ&hl=en), and Jun Cao.
+- Research Intern advised by [Dr. Lei Li](https://lileicc.github.io), [Dr. Mingxuan Wang](https://mingxuan.github.io), and Jun Cao.
 - Research topic: Information Extraction, Machine Translation.
 
 [**Microsoft C+AI**](https://www.microsoftpartnercommunity.com/t5/Cloud-AI/ct-p/cloud-ai), *July. 2019 -- October. 2019*
@@ -57,26 +57,30 @@ My research interests lie in natural language processing, especially information
 
 <sup>*</sup> means equal contribution.
 
-Double Graph Based Reasoning for Document-level Relation Extraction \[[PDF](https://www.aclweb.org/anthology/2020.emnlp-main.127.pdf)\] \[[code](https://github.com/DreamInvoker/GAIN)\] \\
-Shuang Zeng<sup>*</sup>, **Runxin Xu**<sup>*</sup>, Baobao Chang, Lei Li \\
-[In the Conference on Empirical Methods in Natural Language Processing (EMNLP)](https://2020.emnlp.org/), 2020.
+Document-level Event Extraction via HeterogeneousGraph-based Interaction Model with a Tracker.
+**Runxin Xu**, Tianyu Liu, Lei Li，Baobao Chang.
+ACL2021.
 
-Volctrans Parallel Corpus Filtering System for WMT 2020 \[[PDF](http://www.statmt.org/wmt20/pdf/2020.wmt-1.112.pdf)\] \\
-**Runxin Xu**, Zhuo Zhi, Jun Cao, Mingxuan Wang, Lei Li \\
-[In Proceedings of the Fifth Conference on Machine Translation (WMT)](http://www.statmt.org/wmt20/), 2020. \\
+Double Graph Based Reasoning for Document-level Relation Extraction. \[[PDF](https://www.aclweb.org/anthology/2020.emnlp-main.127.pdf)\] \[[code](https://github.com/DreamInvoker/GAIN)\] \\
+Shuang Zeng<sup>*</sup>, **Runxin Xu**<sup>*</sup>, Baobao Chang, Lei Li. \\
+EMNLP2020.
+
+Volctrans Parallel Corpus Filtering System for WMT 2020. \[[PDF](http://www.statmt.org/wmt20/pdf/2020.wmt-1.112.pdf)\] \\
+**Runxin Xu**, Zhuo Zhi, Jun Cao, Mingxuan Wang, Lei Li. \\
+WMT2020. \\
 (Winner of WMT20 Parallel Corpus Filtering tasks on Pashto and Khmer languages. [Here](https://www.statmt.org/wmt20/pdf/2020.wmt-1.78.pdf) is the result.)
 
-Xiaomingbot: A Multilingual Robot News Reporter \[[PDF](https://www.aclweb.org/anthology/2020.acl-demos.1.pdf)\] \[[Report](https://syncedreview.com/2020/07/21/meet-bytedance-ais-xiaomingbot-worlds-first-multilingual-and-multimodal-ai-news-agent)\] \[[URL](https://xiaomingbot.github.io)\] \[[Youtube](https://www.youtube.com/watch?v=zNfaj_DV6-E)\] \\
-**Runxin Xu**, Jun Cao, Mingxuan Wang, Jiaze Chen, Hao Zhou, Ying Zeng, Yuping Wang, Li Chen, Xiang Yin, Xijin Zhang, Songcheng Jiang, Yuxuan Wang, Lei Li \\
-[In the 58th Annual Meeting of the Association for Computational Linguistics (ACL)](https://acl2020.org/): System Demonstrations, 2020.
+Xiaomingbot: A Multilingual Robot News Reporter \[[PDF](https://www.aclweb.org/anthology/2020.acl-demos.1.pdf)\]. \[[Report](https://syncedreview.com/2020/07/21/meet-bytedance-ais-xiaomingbot-worlds-first-multilingual-and-multimodal-ai-news-agent)\] \[[URL](https://xiaomingbot.github.io)\] \[[Youtube](https://www.youtube.com/watch?v=zNfaj_DV6-E)\] \\
+**Runxin Xu**, Jun Cao, Mingxuan Wang, Jiaze Chen, Hao Zhou, Ying Zeng, Yuping Wang, Li Chen, Xiang Yin, Xijin Zhang, Songcheng Jiang, Yuxuan Wang, Lei Li. \\
+ACL2020, System Demonstrations.
 
-ACMo: Angle-Calibrated Moment Methods for Stochastic Optimization \[[PDF](https://arxiv.org/pdf/2006.07065)\] \[[code](https://github.com/Xunpeng746/ACMo)\] \[[URL](https://xunpeng746.github.io/projects/ACMo/ACMo.html)\]\\
-Xunpeng Huang, **Runxin Xu**, Hao Zhou, Zhe Wang, Zhengyang Liu, Lei Li\\
-[In the 33rd AAAI Conference on Artificial Intelligence (AAAI)](https://aaai.org/Conferences/AAAI-21/), 2020.
+ACMo: Angle-Calibrated Moment Methods for Stochastic Optimization. \[[PDF](https://arxiv.org/pdf/2006.07065)\] \[[code](https://github.com/Xunpeng746/ACMo)\] \[[URL](https://xunpeng746.github.io/projects/ACMo/ACMo.html)\]\\
+Xunpeng Huang, **Runxin Xu**, Hao Zhou, Zhe Wang, Zhengyang Liu, Lei Li. \\
+AAAI2020
 
-Adaptive Gradient Methods Can Be Provably Faster than SGD after Finite Epochs \[[PDF](https://arxiv.org/pdf/2006.07037.pdf)\] \\
-Xunpeng Huang, Hao Zhou, **Runxin Xu**, Zhe Wang, Lei Li \\
-[arkiv](https://arxiv.org/abs/2006.07037).
+Adaptive Gradient Methods Can Be Provably Faster than SGD after Finite Epochs. \[[PDF](https://arxiv.org/pdf/2006.07037.pdf)\] \\
+Xunpeng Huang, Hao Zhou, **Runxin Xu**, Zhe Wang, Lei Li. \\
+[arxiv](https://arxiv.org/abs/2006.07037).
 
 ----------------------------
 

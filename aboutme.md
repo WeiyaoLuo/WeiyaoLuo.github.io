@@ -57,7 +57,7 @@ My research interests lie in natural language processing, especially information
 
 <sup>*</sup> means equal contribution.
 
-Document-level Event Extraction via Heterogeneous Graph-based Interaction Model with a Tracker. \\
+Document-level Event Extraction via Heterogeneous Graph-based Interaction Model with a Tracker. \[[PDF](https://arxiv.org/pdf/2105.14924.pdf)\] \[[code](https://github.com/RunxinXu/GIT)\] \\
 **Runxin Xu**, Tianyu Liu, Lei Li, Baobao Chang. \\
 ACL2021.
 

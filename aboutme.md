@@ -74,7 +74,7 @@ Xiaomingbot: A Multilingual Robot News Reporter \[[PDF](https://www.aclweb.org/a
 **Runxin Xu**, Jun Cao, Mingxuan Wang, Jiaze Chen, Hao Zhou, Ying Zeng, Yuping Wang, Li Chen, Xiang Yin, Xijin Zhang, Songcheng Jiang, Yuxuan Wang, Lei Li. \\
 ACL2020, System Demonstrations.
 
-ACMo: Angle-Calibrated Moment Methods for Stochastic Optimization. \[[PDF](https://arxiv.org/pdf/2006.07065)\] \[[code](https://github.com/Xunpeng746/ACMo)\] \[[URL](https://xunpeng746.github.io/projects/ACMo/ACMo.html)\]\\
+ACMo: Angle-Calibrated Moment Methods for Stochastic Optimization. \[[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/16959)\] \[[code](https://github.com/Xunpeng746/ACMo)\] \[[URL](https://xunpeng746.github.io/projects/ACMo/ACMo.html)\]\\
 Xunpeng Huang, **Runxin Xu**, Hao Zhou, Zhe Wang, Zhengyang Liu, Lei Li. \\
 AAAI2020
 

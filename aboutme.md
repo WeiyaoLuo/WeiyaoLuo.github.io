@@ -67,8 +67,8 @@ EMNLP2020.
 
 Volctrans Parallel Corpus Filtering System for WMT 2020. \[[PDF](http://www.statmt.org/wmt20/pdf/2020.wmt-1.112.pdf)\] \\
 **Runxin Xu**, Zhuo Zhi, Jun Cao, Mingxuan Wang, Lei Li. \\
-WMT2020. \\
-(Winner of WMT20 Parallel Corpus Filtering tasks on Pashto and Khmer languages. [Here](https://www.statmt.org/wmt20/pdf/2020.wmt-1.78.pdf) is the result.)
+WMT@EMNLP2020. \\
+(Winner of WMT20 Parallel Corpus Filtering tasks. [Here](https://www.statmt.org/wmt20/pdf/2020.wmt-1.78.pdf) is the result.)
 
 Xiaomingbot: A Multilingual Robot News Reporter \[[PDF](https://www.aclweb.org/anthology/2020.acl-demos.1.pdf)\]. \[[Report](https://syncedreview.com/2020/07/21/meet-bytedance-ais-xiaomingbot-worlds-first-multilingual-and-multimodal-ai-news-agent)\] \[[URL](https://xiaomingbot.github.io)\] \[[Youtube](https://www.youtube.com/watch?v=zNfaj_DV6-E)\] \\
 **Runxin Xu**, Jun Cao, Mingxuan Wang, Jiaze Chen, Hao Zhou, Ying Zeng, Yuping Wang, Li Chen, Xiang Yin, Xijin Zhang, Songcheng Jiang, Yuxuan Wang, Lei Li. \\

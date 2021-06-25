@@ -76,7 +76,7 @@ ACL2020, System Demonstrations.
 
 ACMo: Angle-Calibrated Moment Methods for Stochastic Optimization. \[[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/16959)\] \[[code](https://github.com/Xunpeng746/ACMo)\] \[[URL](https://xunpeng746.github.io/projects/ACMo/ACMo.html)\]\\
 Xunpeng Huang, **Runxin Xu**, Hao Zhou, Zhe Wang, Zhengyang Liu, Lei Li. \\
-AAAI2020
+AAAI2021
 
 Adaptive Gradient Methods Can Be Provably Faster than SGD after Finite Epochs. \[[PDF](https://arxiv.org/pdf/2006.07037.pdf)\] \\
 Xunpeng Huang, Hao Zhou, **Runxin Xu**, Zhe Wang, Lei Li. \\

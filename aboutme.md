@@ -59,7 +59,7 @@ My research interests lie in natural language processing, especially information
 
 Document-level Event Extraction via Heterogeneous Graph-based Interaction Model with a Tracker. \[[PDF](https://arxiv.org/pdf/2105.14924.pdf)\] \[[code](https://github.com/RunxinXu/GIT)\] \\
 **Runxin Xu**, Tianyu Liu, Lei Li, Baobao Chang. \\
-ACL2021.
+ACL2021 (Oral).
 
 Double Graph Based Reasoning for Document-level Relation Extraction. \[[PDF](https://www.aclweb.org/anthology/2020.emnlp-main.127.pdf)\] \[[code](https://github.com/DreamInvoker/GAIN)\] \\
 Shuang Zeng<sup>*</sup>, **Runxin Xu**<sup>*</sup>, Baobao Chang, Lei Li. \\
@@ -68,7 +68,7 @@ EMNLP2020.
 Volctrans Parallel Corpus Filtering System for WMT 2020. \[[PDF](http://www.statmt.org/wmt20/pdf/2020.wmt-1.112.pdf)\] \\
 **Runxin Xu**, Zhuo Zhi, Jun Cao, Mingxuan Wang, Lei Li. \\
 WMT@EMNLP2020. \\
-(Winner of WMT20 Parallel Corpus Filtering tasks. [Here](https://www.statmt.org/wmt20/pdf/2020.wmt-1.78.pdf) is the result.)
+(Win the *first place* of WMT20 Parallel Corpus Filtering tasks. [Here](https://www.statmt.org/wmt20/pdf/2020.wmt-1.78.pdf) is the result.)
 
 Xiaomingbot: A Multilingual Robot News Reporter \[[PDF](https://www.aclweb.org/anthology/2020.acl-demos.1.pdf)\]. \[[Report](https://syncedreview.com/2020/07/21/meet-bytedance-ais-xiaomingbot-worlds-first-multilingual-and-multimodal-ai-news-agent)\] \[[URL](https://xiaomingbot.github.io)\] \[[Youtube](https://www.youtube.com/watch?v=zNfaj_DV6-E)\] \\
 **Runxin Xu**, Jun Cao, Mingxuan Wang, Jiaze Chen, Hao Zhou, Ying Zeng, Yuping Wang, Li Chen, Xiang Yin, Xijin Zhang, Songcheng Jiang, Yuxuan Wang, Lei Li. \\
@@ -76,7 +76,7 @@ ACL2020, System Demonstrations.
 
 ACMo: Angle-Calibrated Moment Methods for Stochastic Optimization. \[[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/16959)\] \[[code](https://github.com/Xunpeng746/ACMo)\] \[[URL](https://xunpeng746.github.io/projects/ACMo/ACMo.html)\]\\
 Xunpeng Huang, **Runxin Xu**, Hao Zhou, Zhe Wang, Zhengyang Liu, Lei Li. \\
-AAAI2021
+AAAI2021.
 
 Adaptive Gradient Methods Can Be Provably Faster than SGD after Finite Epochs. \[[PDF](https://arxiv.org/pdf/2006.07037.pdf)\] \\
 Xunpeng Huang, Hao Zhou, **Runxin Xu**, Zhe Wang, Lei Li. \\

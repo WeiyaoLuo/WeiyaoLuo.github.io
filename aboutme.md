@@ -16,7 +16,7 @@ published: true
 
 I am Runxin Xu (许润昕), a master student at [Institute of Computational Linguistics](https://icl.pku.edu.cn/) in [School of EECS, Peking University](https://eecs.pku.edu.cn/), advised by [Dr. Baobao Chang](https://icl.pku.edu.cn/cy/cbb/index.htm) and [Dr. Zhifang Sui](https://icl.pku.edu.cn/cy/szf/ywb/index.htm). Prior to this, I earned my Bachelor's degree at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn) advised by [Dr. Xiaofeng Gao](http://www.cs.sjtu.edu.cn/~gao-xf/).
 
-My research interests lie in natural language processing, especially information extraction, machine translation, and pretraining.
+My research interests lie in natural language processing, especially information extraction, effective fine-tuning, and machine translation.
 
 ----------------------------
 
@@ -39,7 +39,7 @@ My research interests lie in natural language processing, especially information
 [**Alibaba Damo Academy**](https://damo.alibaba.com/), *Mar. 2021 -- present*
 
 - Research Intern advised by [Dr. Songfang Huang](https://www.linkedin.com/in/songfang), and [Fuli Luo](https://luofuli.github.io).
-- Research topic: Pre-training and fine-tuning.
+- Research topic: Effective and efficient fine-tuning.
 
 [**ByteDance AI Lab**](https://ailab.bytedance.com), *Nov. 2019 -- Jan. 2021*
 
@@ -70,7 +70,7 @@ Volctrans Parallel Corpus Filtering System for WMT 2020. \[[PDF](http://www.stat
 WMT@EMNLP2020. \\
 (Win the *first place* of WMT20 Parallel Corpus Filtering tasks. [Here](https://www.statmt.org/wmt20/pdf/2020.wmt-1.78.pdf) is the result.)
 
-Xiaomingbot: A Multilingual Robot News Reporter \[[PDF](https://www.aclweb.org/anthology/2020.acl-demos.1.pdf)\]. \[[Report](https://syncedreview.com/2020/07/21/meet-bytedance-ais-xiaomingbot-worlds-first-multilingual-and-multimodal-ai-news-agent)\] \[[URL](https://xiaomingbot.github.io)\] \[[Youtube](https://www.youtube.com/watch?v=zNfaj_DV6-E)\] \\
+Xiaomingbot: A Multilingual Robot News Reporter \[[PDF](https://www.aclweb.org/anthology/2020.acl-demos.1.pdf)\] \[[Report](https://syncedreview.com/2020/07/21/meet-bytedance-ais-xiaomingbot-worlds-first-multilingual-and-multimodal-ai-news-agent)\] \[[URL](https://xiaomingbot.github.io)\] \[[Youtube](https://www.youtube.com/watch?v=zNfaj_DV6-E)\] \\
 **Runxin Xu**, Jun Cao, Mingxuan Wang, Jiaze Chen, Hao Zhou, Ying Zeng, Yuping Wang, Li Chen, Xiang Yin, Xijin Zhang, Songcheng Jiang, Yuxuan Wang, Lei Li. \\
 ACL2020, System Demonstrations.
 

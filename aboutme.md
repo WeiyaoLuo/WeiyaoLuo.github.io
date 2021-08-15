@@ -84,7 +84,7 @@ AAAI2021.
 
 Adaptive Gradient Methods Can Be Provably Faster than SGD after Finite Epochs. \[[PDF](https://arxiv.org/pdf/2006.07037.pdf)\] \\
 Xunpeng Huang, Hao Zhou, **Runxin Xu**, Zhe Wang, Lei Li. \\
-[arxiv](https://arxiv.org/abs/2006.07037).
+Preprint.
 
 ----------------------------
 

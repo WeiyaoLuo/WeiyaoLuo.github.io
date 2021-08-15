@@ -57,7 +57,7 @@ My research interests lie in natural language processing, especially information
 
 <sup>*</sup> means equal contribution.
 
-Behind the Scenes: An Exploration of Trigger BiasesProblem in Few-Shot Event Classification. \\
+Behind the Scenes: An Exploration of Trigger Biases Problem in Few-Shot Event Classification. \[[code](https://github.com/Wangpeiyi9979/Behind-the-Scenes)\]\\
 Peiyi Wang<sup>*</sup>, **Runxin Xu**<sup>*</sup>, Tianyu Liu, Damai Dai, Baobao Chang, Zhifang Sui. \\
 CIKM2021.
 

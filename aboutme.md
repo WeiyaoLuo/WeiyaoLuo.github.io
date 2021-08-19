@@ -61,7 +61,7 @@ Behind the Scenes: An Exploration of Trigger Biases Problem in Few-Shot Event Cl
 Peiyi Wang<sup>*</sup>, **Runxin Xu**<sup>*</sup>, Tianyu Liu, Damai Dai, Baobao Chang, Zhifang Sui. \\
 CIKM2021.
 
-Document-level Event Extraction via Heterogeneous Graph-based Interaction Model with a Tracker. \[[PDF](https://arxiv.org/pdf/2105.14924.pdf)\] \[[code](https://github.com/RunxinXu/GIT)\] \\
+Document-level Event Extraction via Heterogeneous Graph-based Interaction Model with a Tracker. \[[PDF](https://aclanthology.org/2021.acl-long.274.pdf)\] \[[code](https://github.com/RunxinXu/GIT)\] \\
 **Runxin Xu**, Tianyu Liu, Lei Li, Baobao Chang. \\
 ACL2021 (Oral).
 

@@ -39,7 +39,7 @@ My research interests lie in natural language processing, especially information
 [**Alibaba Damo Academy**](https://damo.alibaba.com/), *Mar. 2021 -- present*
 
 - Research Intern advised by [Dr. Songfang Huang](https://www.linkedin.com/in/songfang), and [Fuli Luo](https://luofuli.github.io).
-- Research topic: Effective and efficient fine-tuning.
+- Research topic: Pre-trained Language Model and Fine-tuning.
 
 [**ByteDance AI Lab**](https://ailab.bytedance.com), *Nov. 2019 -- Jan. 2021*
 
@@ -58,8 +58,8 @@ My research interests lie in natural language processing, especially information
 <sup>*</sup> means equal contribution.
 
 BERT Raises a Child: Towards Improving Generalization for Large Language Model Fine-tuning. \\
-**Runxin Xu**<sup>*</sup>, Fuli Luo<sup>*</sup>, Zhiyuan Zhang, Chuanqi Tan, Baobao Chang, Songfang Huang and Fei Huang. \\
-EMNLP2020.
+**Runxin Xu**<sup>*</sup>, Fuli Luo<sup>*</sup>, Zhiyuan Zhang, Chuanqi Tan, Baobao Chang, Songfang Huang, Fei Huang. \\
+EMNLP2021.
 
 Behind the Scenes: An Exploration of Trigger Biases Problem in Few-Shot Event Classification. \[[code](https://github.com/Wangpeiyi9979/Behind-the-Scenes)\]\\
 Peiyi Wang<sup>*</sup>, **Runxin Xu**<sup>*</sup>, Tianyu Liu, Damai Dai, Baobao Chang, Zhifang Sui. \\

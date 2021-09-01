@@ -61,7 +61,7 @@ BERT Raises a Child: Towards Improving Generalization for Large Language Model F
 **Runxin Xu**<sup>*</sup>, Fuli Luo<sup>*</sup>, Zhiyuan Zhang, Chuanqi Tan, Baobao Chang, Songfang Huang, Fei Huang. \\
 EMNLP2021.
 
-Behind the Scenes: An Exploration of Trigger Biases Problem in Few-Shot Event Classification. \[[code](https://github.com/Wangpeiyi9979/Behind-the-Scenes)\]\\
+Behind the Scenes: An Exploration of Trigger Biases Problem in Few-Shot Event Classification. \[[PDF](https://arxiv.org/pdf/2108.12844.pdf)\] \[[code](https://github.com/Wangpeiyi9979/Behind-the-Scenes)\] \\
 Peiyi Wang<sup>*</sup>, **Runxin Xu**<sup>*</sup>, Tianyu Liu, Damai Dai, Baobao Chang, Zhifang Sui. \\
 CIKM2021.
 

@@ -94,6 +94,7 @@ Preprint.
 
 # Hornors & Awards
 
+- Outstanding Graduates in Shanghai Jiao Tong University, *June 2020*
 - National scholarship, *December 2019*
 - B-class scholarship in Shanghai Jiao Tong University, *December 2019*
 - Meritorious Winner in Interdisciplinary Contest In Modeling (top 8% of 11262 teams), *March 2018*

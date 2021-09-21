@@ -57,7 +57,7 @@ My research interests lie in natural language processing, especially information
 
 <sup>*</sup> means equal contribution.
 
-BERT Raises a Child: Towards Improving Generalization for Large Language Model Fine-tuning. \[[PDF](https://arxiv.org/pdf/2109.05687.pdf)\] \\
+BERT Raises a Child: Towards Improving Generalization for Large Language Model Fine-tuning. \[[PDF](https://arxiv.org/pdf/2109.05687.pdf)\] \[[code](https://github.com/RunxinXu/ChildTuning)\]\\
 **Runxin Xu**<sup>*</sup>, Fuli Luo<sup>*</sup>, Zhiyuan Zhang, Chuanqi Tan, Baobao Chang, Songfang Huang, Fei Huang. \\
 EMNLP2021.
 

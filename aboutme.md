@@ -98,7 +98,7 @@ Preprint.
 - National scholarship, *December 2019*
 - B-class scholarship in Shanghai Jiao Tong University, *December 2019*
 - [Cyrus Tang Scholarship](http://www.tangfoundation.org.cn/), *December 2019*
-- Meritorious Winner in Interdisciplinary Contest In Modeling (top 8% of 11262 teams), *March 2018*
+- [Meritorious Winner in Interdisciplinary Contest In Modeling ](https://www.comap.com/undergraduate/contests/)(top 8% of 11262 teams), *March 2018*
 - National scholarship, *December 2018*
 - A-class scholarship in Shanghai Jiao Tong University, *December 2018*
 - [Cyrus Tang Scholarship](http://www.tangfoundation.org.cn/), *December 2018*

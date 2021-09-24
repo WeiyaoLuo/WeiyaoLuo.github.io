@@ -59,7 +59,7 @@ My research interests lie in natural language processing, especially information
 
 BERT Raises a Child: Towards Improving Generalization for Large Language Model Fine-tuning. \[[PDF](https://arxiv.org/pdf/2109.05687.pdf)\] \[[code](https://github.com/RunxinXu/ChildTuning)\]\\
 **Runxin Xu**<sup>*</sup>, Fuli Luo<sup>*</sup>, Zhiyuan Zhang, Chuanqi Tan, Baobao Chang, Songfang Huang, Fei Huang. \\
-EMNLP2021.
+EMNLP2021(Oral).
 
 Behind the Scenes: An Exploration of Trigger Biases Problem in Few-Shot Event Classification. \[[PDF](https://arxiv.org/pdf/2108.12844.pdf)\] \[[code](https://github.com/Wangpeiyi9979/Behind-the-Scenes)\] \\
 Peiyi Wang<sup>*</sup>, **Runxin Xu**<sup>*</sup>, Tianyu Liu, Damai Dai, Baobao Chang, Zhifang Sui. \\
@@ -67,7 +67,7 @@ CIKM2021.
 
 Document-level Event Extraction via Heterogeneous Graph-based Interaction Model with a Tracker. \[[PDF](https://aclanthology.org/2021.acl-long.274.pdf)\] \[[code](https://github.com/RunxinXu/GIT)\] \[[talk](https://www.bilibili.com/video/BV1sf4y1N7Hq)\] \\
 **Runxin Xu**, Tianyu Liu, Lei Li, Baobao Chang. \\
-ACL2021 (Oral).
+ACL2021(Oral).
 
 Double Graph Based Reasoning for Document-level Relation Extraction. \[[PDF](https://www.aclweb.org/anthology/2020.emnlp-main.127.pdf)\] \[[code](https://github.com/DreamInvoker/GAIN)\] \\
 Shuang Zeng<sup>*</sup>, **Runxin Xu**<sup>*</sup>, Baobao Chang, Lei Li. \\

@@ -86,6 +86,9 @@ ACMo: Angle-Calibrated Moment Methods for Stochastic Optimization. \[[PDF](https
 Xunpeng Huang, **Runxin Xu**, Hao Zhou, Zhe Wang, Zhengyang Liu, Lei Li. \\
 AAAI2021.
 
+Explicit Interaction Network for Aspect Sentiment Triplet Extraction. \[[PDF](https://arxiv.org/pdf/2106.11148.pdf)\]
+Peiyi Wang<sup>*</sup>, Lianzhe Huang<sup>*</sup>, Tianyu Liu, Damai Dai, Runxin Xu, Houfeng Wang, Baobao Chang, Zhifang Sui.
+
 Adaptive Gradient Methods Can Be Provably Faster than SGD after Finite Epochs. \[[PDF](https://arxiv.org/pdf/2006.07037.pdf)\] \\
 Xunpeng Huang, Hao Zhou, **Runxin Xu**, Zhe Wang, Lei Li. \\
 Preprint.

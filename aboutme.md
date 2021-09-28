@@ -86,6 +86,10 @@ ACMo: Angle-Calibrated Moment Methods for Stochastic Optimization. \[[PDF](https
 Xunpeng Huang, **Runxin Xu**, Hao Zhou, Zhe Wang, Zhengyang Liu, Lei Li. \\
 AAAI2021.
 
+An Enhanced Span-based Decomposition Method for Few-Shot Sequence Labeling.  \[[PDF](https://arxiv.org/pdf/2109.13023.pdf)\] \\
+Peiyi Wang, Runxin Xu, Tianyu Liu, Qingyu Zhou, Yunbo Cao, Baobao Chang, Zhifang Sui. \\
+Preprint.
+
 Explicit Interaction Network for Aspect Sentiment Triplet Extraction. \[[PDF](https://arxiv.org/pdf/2106.11148.pdf)\] \\
 Peiyi Wang<sup>*</sup>, Lianzhe Huang<sup>*</sup>, Tianyu Liu, Damai Dai, Runxin Xu, Houfeng Wang, Baobao Chang, Zhifang Sui. \\
 Preprint.

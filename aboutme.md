@@ -14,15 +14,15 @@ published: true
 
 <img align="left" src="/img/photo.jpeg" height="290" width="240" style="margin-right:50px;border:4px solid #ddd;border-radius:4px">
 
-I am Runxin Xu (许润昕), a master student at [Institute of Computational Linguistics](https://icl.pku.edu.cn/) in [School of EECS, Peking University](https://eecs.pku.edu.cn/), advised by [Dr. Baobao Chang](https://icl.pku.edu.cn/cy/cbb/index.htm) and [Dr. Zhifang Sui](https://icl.pku.edu.cn/cy/szf/ywb/index.htm). Prior to this, I earned my Bachelor's degree at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn) advised by [Dr. Xiaofeng Gao](http://www.cs.sjtu.edu.cn/~gao-xf/).
+I am Runxin Xu (许润昕), a master student at the [Institute of Computational Linguistics](https://icl.pku.edu.cn/) in the [School of EECS, Peking University](https://eecs.pku.edu.cn/), advised by [Dr. Baobao Chang](https://icl.pku.edu.cn/cy/cbb/index.htm) and [Dr. Zhifang Sui](https://icl.pku.edu.cn/cy/szf/ywb/index.htm). Prior to this, I earned my Bachelor's degree at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn) advised by [Dr. Xiaofeng Gao](http://www.cs.sjtu.edu.cn/~gao-xf/).
 
-My research interests lie in natural language processing, especially 1) document-level and few-shot information extraction, and 2) effective and efficient pre-trained language model.
+My research interests mainly lie in natural language processing, especially 1) document-level and few-shot information extraction, and 2) effective and efficient pre-trained language model.
 
 ----------------------------
 
 # Education
 
-[**Peking University**](https://www.pku.edu.cn/), *Sep. 2020 - Present*
+[**Peking University**](https://www.pku.edu.cn/), *Sep. 2020 - Jun. 2023 (expected)*
 
 - Master student at the [School of EECS](https://eecs.pku.edu.cn/).
 - Advised by [Dr. Baobao Chang](https://icl.pku.edu.cn/cy/cbb/index.htm) and [Dr. Zhifang Sui](https://icl.pku.edu.cn/cy/szf/ywb/index.htm) in [Institute of Computational Linguistics](https://icl.pku.edu.cn/).
@@ -59,7 +59,7 @@ My research interests lie in natural language processing, especially 1) document
 
 BERT Raises a Child: Towards Improving Generalization for Large Language Model Fine-tuning. \[[PDF](https://arxiv.org/pdf/2109.05687.pdf)\] \[[code](https://github.com/RunxinXu/ChildTuning)\]\\
 **Runxin Xu**<sup>*</sup>, Fuli Luo<sup>*</sup>, Zhiyuan Zhang, Chuanqi Tan, Baobao Chang, Songfang Huang, Fei Huang. \\
-EMNLP2021(Oral).
+EMNLP2021 (Oral).
 
 Behind the Scenes: An Exploration of Trigger Biases Problem in Few-Shot Event Classification. \[[PDF](https://arxiv.org/pdf/2108.12844.pdf)\] \[[code](https://github.com/Wangpeiyi9979/Behind-the-Scenes)\] \\
 Peiyi Wang<sup>*</sup>, **Runxin Xu**<sup>*</sup>, Tianyu Liu, Damai Dai, Baobao Chang, Zhifang Sui. \\
@@ -67,7 +67,7 @@ CIKM2021.
 
 Document-level Event Extraction via Heterogeneous Graph-based Interaction Model with a Tracker. \[[PDF](https://aclanthology.org/2021.acl-long.274.pdf)\] \[[code](https://github.com/RunxinXu/GIT)\] \[[talk](https://www.bilibili.com/video/BV1sf4y1N7Hq)\] \\
 **Runxin Xu**, Tianyu Liu, Lei Li, Baobao Chang. \\
-ACL2021(Oral).
+ACL2021 (Oral).
 
 Double Graph Based Reasoning for Document-level Relation Extraction. \[[PDF](https://www.aclweb.org/anthology/2020.emnlp-main.127.pdf)\] \[[code](https://github.com/DreamInvoker/GAIN)\] \\
 Shuang Zeng<sup>*</sup>, **Runxin Xu**<sup>*</sup>, Baobao Chang, Lei Li. \\

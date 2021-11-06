@@ -57,11 +57,11 @@ My research interests mainly lie in natural language processing, especially 1) d
 
 <sup>*</sup> means equal contribution.
 
-BERT Raises a Child: Towards Improving Generalization for Large Language Model Fine-tuning. \[[PDF](https://arxiv.org/pdf/2109.05687.pdf)\] \[[code](https://github.com/RunxinXu/ChildTuning)\]\\
+BERT Raises a Child: Towards Improving Generalization for Large Language Model Fine-tuning. \[[PDF](https://aclanthology.org/2021.emnlp-main.749.pdf)\] \[[code](https://github.com/RunxinXu/ChildTuning)\] \[[Rport](https://mp.weixin.qq.com/s/zO0RSVeUOxnYece-ZORV6w)\] \\
 **Runxin Xu**<sup>*</sup>, Fuli Luo<sup>*</sup>, Zhiyuan Zhang, Chuanqi Tan, Baobao Chang, Songfang Huang, Fei Huang. \\
 EMNLP2021 (Oral).
 
-Behind the Scenes: An Exploration of Trigger Biases Problem in Few-Shot Event Classification. \[[PDF](https://arxiv.org/pdf/2108.12844.pdf)\] \[[code](https://github.com/Wangpeiyi9979/Behind-the-Scenes)\] \\
+Behind the Scenes: An Exploration of Trigger Biases Problem in Few-Shot Event Classification. \[[PDF](https://dl.acm.org/doi/pdf/10.1145/3459637.3482236)\] \[[code](https://github.com/Wangpeiyi9979/Behind-the-Scenes)\] \\
 Peiyi Wang<sup>*</sup>, **Runxin Xu**<sup>*</sup>, Tianyu Liu, Damai Dai, Baobao Chang, Zhifang Sui. \\
 CIKM2021.
 
@@ -91,7 +91,7 @@ Peiyi Wang<sup>*</sup>, **Runxin Xu**<sup>*</sup>, Tianyu Liu, Qingyu Zhou, Yunb
 Preprint.
 
 Explicit Interaction Network for Aspect Sentiment Triplet Extraction. \[[PDF](https://arxiv.org/pdf/2106.11148.pdf)\] \\
-Peiyi Wang<sup>*</sup>, Lianzhe Huang<sup>*</sup>, Tianyu Liu, Damai Dai, Runxin Xu, Houfeng Wang, Baobao Chang, Zhifang Sui. \\
+Peiyi Wang<sup>*</sup>, Lianzhe Huang<sup>*</sup>, Tianyu Liu, Damai Dai, **Runxin Xu**, Houfeng Wang, Baobao Chang, Zhifang Sui. \\
 Preprint.
 
 Adaptive Gradient Methods Can Be Provably Faster than SGD after Finite Epochs. \[[PDF](https://arxiv.org/pdf/2006.07037.pdf)\] \\

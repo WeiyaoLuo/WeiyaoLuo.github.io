@@ -18,6 +18,8 @@ I am Runxin Xu (许润昕), a master student at the [Institute of Computational 
 
 My research interests mainly lie in natural language processing, especially 1) document-level and few-shot information extraction, and 2) effective and efficient pre-trained language model.
 
+<font color=red size=10> **I am actively seeking for engineer or researcher position. Please drop me an email (A@B,A=runxinxu,B=gmail.com) if you want to chat.**</font>
+
 ----------------------------
 
 # Education

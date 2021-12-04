@@ -104,6 +104,7 @@ Preprint.
 
 # Hornors & Awards
 
+- National scholarship, *December 2021*
 - Outstanding Graduates in Shanghai Jiao Tong University, *June 2020*
 - National scholarship, *December 2019*
 - B-class scholarship in Shanghai Jiao Tong University, *December 2019*
@@ -122,13 +123,13 @@ Preprint.
 
 - Introduction to Computing (Category C), Teaching Assistant, *Fall 2020*
 
-----------------------------
+<!-- ----------------------------
 
 # Academic Services
 
-- Reviewer: EACL2021
+- Reviewer: EACL2021, ACL
 
-
+ -->
 ----------------------------
 
 # Contact Me

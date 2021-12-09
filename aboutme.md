@@ -59,7 +59,11 @@ My research interests mainly lie in natural language processing, especially 1) d
 
 <sup>*</sup> means equal contribution.
 
-BERT Raises a Child: Towards Improving Generalization for Large Language Model Fine-tuning. \[[PDF](https://aclanthology.org/2021.emnlp-main.749.pdf)\] \[[code](https://github.com/RunxinXu/ChildTuning)\] \[[Rport](https://mp.weixin.qq.com/s/zO0RSVeUOxnYece-ZORV6w)\] \\
+From Dense to Sparse: Contrastive Pruning for Better Pre-trainedLanguage Model Compression. \\
+**Runxin Xu**<sup>*</sup>, Fuli Luo<sup>*</sup>, Chengyu Wang, Baobao Chang, Jun Huang, Songfang Huang, Fei Huang. \\
+AAAI2022.
+
+BERT Raises a Child: Towards Improving Generalization for Large Language Model Fine-tuning. \[[PDF](https://aclanthology.org/2021.emnlp-main.749.pdf)\] \[[code](https://github.com/RunxinXu/ChildTuning)\] \[[Report](https://mp.weixin.qq.com/s/zO0RSVeUOxnYece-ZORV6w)\] \\
 **Runxin Xu**<sup>*</sup>, Fuli Luo<sup>*</sup>, Zhiyuan Zhang, Chuanqi Tan, Baobao Chang, Songfang Huang, Fei Huang. \\
 EMNLP2021 (Oral).
 
@@ -104,7 +108,7 @@ Preprint.
 
 # Hornors & Awards
 
-- National scholarship, *December 2021*
+<!-- - National scholarship, *December 2021*
 - Outstanding Graduates in Shanghai Jiao Tong University, *June 2020*
 - National scholarship, *December 2019*
 - B-class scholarship in Shanghai Jiao Tong University, *December 2019*
@@ -114,8 +118,15 @@ Preprint.
 - [Cyrus Tang Scholarship](http://www.tangfoundation.org.cn/), *December 2018*
 - [Meritorious Winner in Interdisciplinary Contest In Modeling ](https://www.comap.com/undergraduate/contests/)(top 8% of 11262 teams), *March 2018*
 - [Arawana scholarship](https://jjh.jinlongyu.cn/project/index.aspx?NC=105003002), *December 2017*
-- B-class scholarship in Shanghai Jiao Tong University, *December 2017*
+- B-class scholarship in Shanghai Jiao Tong University, *December 2017* -->
 
+- National scholarship.  *2018*, *2019*, *2021*.
+- Outstanding Graduates in Shanghai Jiao Tong University.  *2020*
+- A-class scholarship in Shanghai Jiao Tong University (top 1 in the major). *2018*.
+- B-class scholarship in Shanghai Jiao Tong University.  *2017*, *2019*.
+- [Cyrus Tang Scholarship](http://www.tangfoundation.org.cn/). *2018*, *2019*
+- [Arawana scholarship](https://jjh.jinlongyu.cn/project/index.aspx?NC=105003002).  *2017*.
+- [Meritorious Winner in Interdisciplinary Contest In Modeling ](https://www.comap.com/undergraduate/contests/)(top 8% of 11262 teams).  *2018*
 
 ----------------------------
 
@@ -127,7 +138,7 @@ Preprint.
 
 # Academic Services
 
-- Reviewer: EACL2021, ACL
+- Reviewer: EACL2021, ARR
 
  -->
 ----------------------------

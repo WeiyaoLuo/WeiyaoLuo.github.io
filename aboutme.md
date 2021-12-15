@@ -59,7 +59,7 @@ My research interests mainly lie in natural language processing, especially 1) d
 
 <sup>*</sup> means equal contribution.
 
-From Dense to Sparse: Contrastive Pruning for Better Pre-trained Language Model Compression. \\
+From Dense to Sparse: Contrastive Pruning for Better Pre-trained Language Model Compression. \[[PDF](https://arxiv.org/abs/2112.07198)\] \[[code](https://github.com/RunxinXu/ContrastivePruning)\] \\
 **Runxin Xu**<sup>*</sup>, Fuli Luo<sup>*</sup>, Chengyu Wang, Baobao Chang, Jun Huang, Songfang Huang, Fei Huang. \\
 AAAI2022.
 

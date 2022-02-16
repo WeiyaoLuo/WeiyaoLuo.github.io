@@ -61,7 +61,7 @@ My research interests mainly lie in natural language processing, especially 1) d
 
 From Dense to Sparse: Contrastive Pruning for Better Pre-trained Language Model Compression. \[[PDF](https://arxiv.org/abs/2112.07198)\] \[[code](https://github.com/RunxinXu/ContrastivePruning)\] \\
 **Runxin Xu**<sup>*</sup>, Fuli Luo<sup>*</sup>, Chengyu Wang, Baobao Chang, Jun Huang, Songfang Huang, Fei Huang. \\
-AAAI2022.
+AAAI2022 (Oral).
 
 BERT Raises a Child: Towards Improving Generalization for Large Language Model Fine-tuning. \[[PDF](https://aclanthology.org/2021.emnlp-main.749.pdf)\] \[[code](https://github.com/RunxinXu/ChildTuning)\] \[[Report](https://mp.weixin.qq.com/s/zO0RSVeUOxnYece-ZORV6w)\] \\
 **Runxin Xu**<sup>*</sup>, Fuli Luo<sup>*</sup>, Zhiyuan Zhang, Chuanqi Tan, Baobao Chang, Songfang Huang, Fei Huang. \\

@@ -63,6 +63,11 @@ From Dense to Sparse: Contrastive Pruning for Better Pre-trained Language Model 
 **Runxin Xu**<sup>*</sup>, Fuli Luo<sup>*</sup>, Chengyu Wang, Baobao Chang, Jun Huang, Songfang Huang, Fei Huang. \\
 AAAI2022 (Oral).
 
+	
+S<sup>4</sup>-Tuning: A Simple Cross-lingual Sub-network Tuning Method. \\
+**Runxin Xu**, Fuli Luo, Baobao Chang, Songfang Huang, Fei Huang. \\
+ACL2022.
+
 BERT Raises a Child: Towards Improving Generalization for Large Language Model Fine-tuning. \[[PDF](https://aclanthology.org/2021.emnlp-main.749.pdf)\] \[[code](https://github.com/RunxinXu/ChildTuning)\] \[[Report](https://mp.weixin.qq.com/s/zO0RSVeUOxnYece-ZORV6w)\] \\
 **Runxin Xu**<sup>*</sup>, Fuli Luo<sup>*</sup>, Zhiyuan Zhang, Chuanqi Tan, Baobao Chang, Songfang Huang, Fei Huang. \\
 EMNLP2021 (Oral).
@@ -87,6 +92,15 @@ WMT@EMNLP2020. \\
 Xiaomingbot: A Multilingual Robot News Reporter \[[PDF](https://www.aclweb.org/anthology/2020.acl-demos.1.pdf)\] \[[Report](https://syncedreview.com/2020/07/21/meet-bytedance-ais-xiaomingbot-worlds-first-multilingual-and-multimodal-ai-news-agent)\] \[[URL](https://xiaomingbot.github.io)\] \[[Youtube](https://www.youtube.com/watch?v=zNfaj_DV6-E)\] \\
 **Runxin Xu**, Jun Cao, Mingxuan Wang, Jiaze Chen, Hao Zhou, Ying Zeng, Yuping Wang, Li Chen, Xiang Yin, Xijin Zhang, Songcheng Jiang, Yuxuan Wang, Lei Li. \\
 ACL2020, System Demonstrations.
+
+Focus on the Target’s Vocabulary: Masked Label Smoothing for Machine Translation. \\
+Liang Chen, **Runxin Xu**, Baobao Chang. \\
+ACL2022.
+
+Probing Structured Pruning on Multilingual Pre-trained Models: Setting, Algorithm, and Efficiency. \\
+Yanyang Li, Fuli Luo, **Runxin Xu**, Songfang Huang, Fei Huang, Liwei Wang. \\
+ACL2022.
+
 
 ACMo: Angle-Calibrated Moment Methods for Stochastic Optimization. \[[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/16959)\] \[[code](https://github.com/Xunpeng746/ACMo)\] \[[URL](https://xunpeng746.github.io/projects/ACMo/ACMo.html)\] \\
 Xunpeng Huang, **Runxin Xu**, Hao Zhou, Zhe Wang, Zhengyang Liu, Lei Li. \\

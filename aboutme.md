@@ -38,7 +38,12 @@ My research interests mainly lie in natural language processing, especially 1) d
 
 # Experience
 
-[**Alibaba Damo Academy**](https://damo.alibaba.com/), *Mar. 2021 -- present*
+[**ByteDance Search**], *December. 2021 -- Now *
+
+- E-Commerce in Douyin Search.
+- Advised by Shian Chen, Zhe Chen, and [Pengcheng Yang](https://dblp.org/pid/140/6685.html).
+
+[**Alibaba Damo Academy**](https://damo.alibaba.com/), *Mar. 2021 -- December. 2021*
 
 - Research Intern advised by [Dr. Songfang Huang](https://www.linkedin.com/in/songfang), and [Fuli Luo](https://luofuli.github.io).
 - Research topic: Pre-trained Language Model and Fine-tuning.

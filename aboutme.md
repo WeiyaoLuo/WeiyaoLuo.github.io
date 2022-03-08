@@ -38,7 +38,7 @@ My research interests mainly lie in natural language processing, especially 1) d
 
 # Experience
 
-[**ByteDance Search**], *December. 2021 -- Now *
+**ByteDance Search**, *December. 2021 -- Now *
 
 - E-Commerce in Douyin Search.
 - Advised by Shian Chen, Zhe Chen, and [Pengcheng Yang](https://dblp.org/pid/140/6685.html).

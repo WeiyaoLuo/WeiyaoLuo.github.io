@@ -98,7 +98,7 @@ Xiaomingbot: A Multilingual Robot News Reporter \[[PDF](https://www.aclweb.org/a
 **Runxin Xu**, Jun Cao, Mingxuan Wang, Jiaze Chen, Hao Zhou, Ying Zeng, Yuping Wang, Li Chen, Xiang Yin, Xijin Zhang, Songcheng Jiang, Yuxuan Wang, Lei Li. \\
 ACL2020, System Demonstrations.
 
-Focus on the Target’s Vocabulary: Masked Label Smoothing for Machine Translation. \\
+Focus on the Target’s Vocabulary: Masked Label Smoothing for Machine Translation. \[[PDF](https://arxiv.org/pdf/2203.02889.pdf)\] \[[code](https://github.com/PKUnlp-icler/MLS)\] \\
 Liang Chen, **Runxin Xu**, Baobao Chang. \\
 ACL2022.
 

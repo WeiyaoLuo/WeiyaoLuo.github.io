@@ -68,10 +68,17 @@ From Dense to Sparse: Contrastive Pruning for Better Pre-trained Language Model 
 **Runxin Xu**<sup>*</sup>, Fuli Luo<sup>*</sup>, Chengyu Wang, Baobao Chang, Jun Huang, Songfang Huang, Fei Huang. \\
 AAAI2022 (Oral).
 
-	
 S<sup>4</sup>-Tuning: A Simple Cross-lingual Sub-network Tuning Method. \\
 **Runxin Xu**, Fuli Luo, Baobao Chang, Songfang Huang, Fei Huang. \\
 ACL2022.
+
+A Two-Stream AMR-enhanced Model for Document-level Event Argument Extraction. \\
+Runxin Xu, Peiyi Wang, Tianyu Liu, Shuang Zeng, Baobao Chang, Zhifang Sui. \\
+NAACL2022.
+
+An Enhanced Span-based Decomposition Method for Few-Shot Sequence Labeling.  \[[PDF](https://arxiv.org/pdf/2109.13023.pdf)\] \\
+Peiyi Wang<sup>*</sup>, **Runxin Xu**<sup>*</sup>, Tianyu Liu, Qingyu Zhou, Yunbo Cao, Baobao Chang, Zhifang Sui. \\
+NAACL2022.
 
 BERT Raises a Child: Towards Improving Generalization for Large Language Model Fine-tuning. \[[PDF](https://aclanthology.org/2021.emnlp-main.749.pdf)\] \[[code](https://github.com/RunxinXu/ChildTuning)\] \[[Report](https://mp.weixin.qq.com/s/zO0RSVeUOxnYece-ZORV6w)\] \\
 **Runxin Xu**<sup>*</sup>, Fuli Luo<sup>*</sup>, Zhiyuan Zhang, Chuanqi Tan, Baobao Chang, Songfang Huang, Fei Huang. \\
@@ -106,13 +113,20 @@ Probing Structured Pruning on Multilingual Pre-trained Models: Setting, Algorith
 Yanyang Li, Fuli Luo, **Runxin Xu**, Songfang Huang, Fei Huang, Liwei Wang. \\
 ACL2022.
 
+A Double-Graph Based Framework for Frame Semantic Parsing. \\
+Ce Zheng, Xudong Chen, **Runxin Xu**, Baobao Chang. \\
+NAACL2022
+
+AMRize, then Parse! Enhancing AMR Parsing with PseudoAMR Data. \\
+Liang Chen, Peiyi Wang, **Runxin Xu**, Tianyu Liu, Zhifang Sui, Baobao Chang. \\
+NACL2022.
 
 ACMo: Angle-Calibrated Moment Methods for Stochastic Optimization. \[[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/16959)\] \[[code](https://github.com/Xunpeng746/ACMo)\] \[[URL](https://xunpeng746.github.io/projects/ACMo/ACMo.html)\] \\
 Xunpeng Huang, **Runxin Xu**, Hao Zhou, Zhe Wang, Zhengyang Liu, Lei Li. \\
 AAAI2021.
 
-An Enhanced Span-based Decomposition Method for Few-Shot Sequence Labeling.  \[[PDF](https://arxiv.org/pdf/2109.13023.pdf)\] \\
-Peiyi Wang<sup>*</sup>, **Runxin Xu**<sup>*</sup>, Tianyu Liu, Qingyu Zhou, Yunbo Cao, Baobao Chang, Zhifang Sui. \\
+Making Pre-trained Language Models End-to-end Few-shot Learners with Contrastive Prompt Tuning. \[[PDF](https://arxiv.org/pdf/2204.00166.pdf)\] \\
+Ziyun Xu<sup>*</sup>, Chengyu Wang<sup>*</sup>, Minghui Qiu, Fuli Luo, **Runxin Xu**, Songfang Huang, Jun Huang \\
 Preprint.
 
 Explicit Interaction Network for Aspect Sentiment Triplet Extraction. \[[PDF](https://arxiv.org/pdf/2106.11148.pdf)\] \\

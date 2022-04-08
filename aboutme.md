@@ -73,7 +73,7 @@ S<sup>4</sup>-Tuning: A Simple Cross-lingual Sub-network Tuning Method. \\
 ACL2022.
 
 A Two-Stream AMR-enhanced Model for Document-level Event Argument Extraction. \\
-Runxin Xu, Peiyi Wang, Tianyu Liu, Shuang Zeng, Baobao Chang, Zhifang Sui. \\
+**Runxin Xu**, Peiyi Wang, Tianyu Liu, Shuang Zeng, Baobao Chang, Zhifang Sui. \\
 NAACL2022.
 
 An Enhanced Span-based Decomposition Method for Few-Shot Sequence Labeling.  \[[PDF](https://arxiv.org/pdf/2109.13023.pdf)\] \\

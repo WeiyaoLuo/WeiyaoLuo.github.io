@@ -119,7 +119,7 @@ NAACL2022
 
 AMRize, then Parse! Enhancing AMR Parsing with PseudoAMR Data. \\
 Liang Chen, Peiyi Wang, **Runxin Xu**, Tianyu Liu, Zhifang Sui, Baobao Chang. \\
-NACL2022.
+NAACL2022.
 
 ACMo: Angle-Calibrated Moment Methods for Stochastic Optimization. \[[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/16959)\] \[[code](https://github.com/Xunpeng746/ACMo)\] \[[URL](https://xunpeng746.github.io/projects/ACMo/ACMo.html)\] \\
 Xunpeng Huang, **Runxin Xu**, Hao Zhou, Zhe Wang, Zhengyang Liu, Lei Li. \\

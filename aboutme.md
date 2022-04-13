@@ -109,15 +109,15 @@ Focus on the Target’s Vocabulary: Masked Label Smoothing for Machine Translati
 Liang Chen, **Runxin Xu**, Baobao Chang. \\
 ACL2022.
 
-Probing Structured Pruning on Multilingual Pre-trained Models: Setting, Algorithm, and Efficiency. \\
+Probing Structured Pruning on Multilingual Pre-trained Models: Setting, Algorithm, and Efficiency. \[[PDF](https://arxiv.org/pdf/2204.02601.pdf)\] \\
 Yanyang Li, Fuli Luo, **Runxin Xu**, Songfang Huang, Fei Huang, Liwei Wang. \\
 ACL2022.
 
-A Double-Graph Based Framework for Frame Semantic Parsing. \\
+A Double-Graph Based Framework for Frame Semantic Parsing. \[[code](https://github.com/Zce1112zslx/KID)\] \\
 Ce Zheng, Xudong Chen, **Runxin Xu**, Baobao Chang. \\
 NAACL2022
 
-AMRize, then Parse! Enhancing AMR Parsing with PseudoAMR Data. \\
+AMRize, then Parse! Enhancing AMR Parsing with PseudoAMR Data.  \[[code](https://github.com/chenllliang/ATP)\] \\
 Liang Chen, Peiyi Wang, **Runxin Xu**, Tianyu Liu, Zhifang Sui, Baobao Chang. \\
 NAACL2022.
 

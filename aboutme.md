@@ -72,11 +72,11 @@ S<sup>4</sup>-Tuning: A Simple Cross-lingual Sub-network Tuning Method. \\
 **Runxin Xu**, Fuli Luo, Baobao Chang, Songfang Huang, Fei Huang. \\
 ACL2022.
 
-A Two-Stream AMR-enhanced Model for Document-level Event Argument Extraction. \\
-**Runxin Xu**, Peiyi Wang, Tianyu Liu, Shuang Zeng, Baobao Chang, Zhifang Sui. \\
+A Two-Stream AMR-enhanced Model for Document-level Event Argument Extraction. \[[code](https://github.com/RunxinXu/TSAR)\] \\
+**Runxin Xu**<sup>*</sup>, Peiyi Wang<sup>*</sup>, Tianyu Liu, Shuang Zeng, Baobao Chang, Zhifang Sui. \\
 NAACL2022.
 
-An Enhanced Span-based Decomposition Method for Few-Shot Sequence Labeling.  \[[PDF](https://arxiv.org/pdf/2109.13023.pdf)\] \\
+An Enhanced Span-based Decomposition Method for Few-Shot Sequence Labeling.  \[[PDF](https://arxiv.org/pdf/2109.13023.pdf)\] \[[code](https://github.com/Wangpeiyi9979/ESD)\] \\
 Peiyi Wang<sup>*</sup>, **Runxin Xu**<sup>*</sup>, Tianyu Liu, Qingyu Zhou, Yunbo Cao, Baobao Chang, Zhifang Sui. \\
 NAACL2022.
 
@@ -117,7 +117,7 @@ A Double-Graph Based Framework for Frame Semantic Parsing. \[[code](https://gith
 Ce Zheng, Xudong Chen, **Runxin Xu**, Baobao Chang. \\
 NAACL2022
 
-AMRize, then Parse! Enhancing AMR Parsing with PseudoAMR Data.  \[[code](https://github.com/chenllliang/ATP)\] \\
+ATP: AMRize Then Parse! Enhancing AMR Parsing with PseudoAMRs.  \[[PDF](https://arxiv.org/pdf/2204.08875.pdf)\] \[[code](https://github.com/chenllliang/ATP)\] \\
 Liang Chen, Peiyi Wang, **Runxin Xu**, Tianyu Liu, Zhifang Sui, Baobao Chang. \\
 NAACL2022.
 

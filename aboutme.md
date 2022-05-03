@@ -72,7 +72,7 @@ S<sup>4</sup>-Tuning: A Simple Cross-lingual Sub-network Tuning Method. \\
 **Runxin Xu**, Fuli Luo, Baobao Chang, Songfang Huang, Fei Huang. \\
 ACL2022.
 
-A Two-Stream AMR-enhanced Model for Document-level Event Argument Extraction. \[[code](https://github.com/RunxinXu/TSAR)\] \\
+A Two-Stream AMR-enhanced Model for Document-level Event Argument Extraction. \[[PDF](https://arxiv.org/pdf/2205.00241.pdf)\] \[[code](https://github.com/RunxinXu/TSAR)\] \\
 **Runxin Xu**<sup>*</sup>, Peiyi Wang<sup>*</sup>, Tianyu Liu, Shuang Zeng, Baobao Chang, Zhifang Sui. \\
 NAACL2022.
 

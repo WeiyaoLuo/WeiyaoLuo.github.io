@@ -74,11 +74,11 @@ ACL2022.
 
 A Two-Stream AMR-enhanced Model for Document-level Event Argument Extraction. \[[PDF](https://arxiv.org/pdf/2205.00241.pdf)\] \[[code](https://github.com/RunxinXu/TSAR)\] \\
 **Runxin Xu**<sup>*</sup>, Peiyi Wang<sup>*</sup>, Tianyu Liu, Shuang Zeng, Baobao Chang, Zhifang Sui. \\
-NAACL2022.
+NAACL2022 (Oral).
 
 An Enhanced Span-based Decomposition Method for Few-Shot Sequence Labeling.  \[[PDF](https://arxiv.org/pdf/2109.13023.pdf)\] \[[code](https://github.com/Wangpeiyi9979/ESD)\] \\
 Peiyi Wang<sup>*</sup>, **Runxin Xu**<sup>*</sup>, Tianyu Liu, Qingyu Zhou, Yunbo Cao, Baobao Chang, Zhifang Sui. \\
-NAACL2022.
+NAACL2022 (Oral).
 
 BERT Raises a Child: Towards Improving Generalization for Large Language Model Fine-tuning. \[[PDF](https://aclanthology.org/2021.emnlp-main.749.pdf)\] \[[code](https://github.com/RunxinXu/ChildTuning)\] \[[Report](https://mp.weixin.qq.com/s/zO0RSVeUOxnYece-ZORV6w)\] \\
 **Runxin Xu**<sup>*</sup>, Fuli Luo<sup>*</sup>, Zhiyuan Zhang, Chuanqi Tan, Baobao Chang, Songfang Huang, Fei Huang. \\

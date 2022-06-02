@@ -68,7 +68,7 @@ From Dense to Sparse: Contrastive Pruning for Better Pre-trained Language Model 
 **Runxin Xu**<sup>*</sup>, Fuli Luo<sup>*</sup>, Chengyu Wang, Baobao Chang, Jun Huang, Songfang Huang, Fei Huang. \\
 AAAI2022 (Oral).
 
-S<sup>4</sup>-Tuning: A Simple Cross-lingual Sub-network Tuning Method. \\
+S<sup>4</sup>-Tuning: A Simple Cross-lingual Sub-network Tuning Method. \[[PDF](https://aclanthology.org/2022.acl-short.58.pdf)\] \\
 **Runxin Xu**, Fuli Luo, Baobao Chang, Songfang Huang, Fei Huang. \\
 ACL2022.
 

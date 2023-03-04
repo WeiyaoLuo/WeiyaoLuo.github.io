@@ -17,8 +17,8 @@ published: true
 <div align=center>
 <img src="/img/photo2mini.jpeg" height="290" width="450">
 </div>
-
-I am Runxin Xu (许润昕), a master student at the [Institute of Computational Linguistics](https://icl.pku.edu.cn/) in the [School of EECS, Peking University](https://eecs.pku.edu.cn/), advised by [Dr. Baobao Chang](https://icl.pku.edu.cn/cy/cbb/index.htm) and [Dr. Zhifang Sui](https://icl.pku.edu.cn/cy/szf/ywb/index.htm). Prior to this, I earned my Bachelor's degree at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn) advised by [Dr. Xiaofeng Gao](http://www.cs.sjtu.edu.cn/~gao-xf/).
+请注意：本页面内容还在建设中，所有信息均不可靠，请退出。
+I am Weiyai Luo (罗巍耀), a master student at the [Institute of Computational Linguistics](https://icl.pku.edu.cn/) in the [School of EECS, Peking University](https://eecs.pku.edu.cn/), advised by [Dr. Baobao Chang](https://icl.pku.edu.cn/cy/cbb/index.htm) and [Dr. Zhifang Sui](https://icl.pku.edu.cn/cy/szf/ywb/index.htm). Prior to this, I earned my Bachelor's degree at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn) advised by [Dr. Xiaofeng Gao](http://www.cs.sjtu.edu.cn/~gao-xf/).
 
 My research interests mainly lie in natural language processing, especially 1) document-level and few-shot information extraction, and 2) effective and efficient pre-trained language model.
 

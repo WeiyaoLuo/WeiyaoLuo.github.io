@@ -18,25 +18,26 @@ published: true
 <img src="/img/photo2mini.jpeg" height="290" width="450">
 </div>
 请注意：本页面内容还在建设中，所有信息均不可靠，请退出。
-I am Weiyai Luo (罗巍耀), a master student at the [Institute of Computational Linguistics](https://icl.pku.edu.cn/) in the [School of EECS, Peking University](https://eecs.pku.edu.cn/), advised by [Dr. Baobao Chang](https://icl.pku.edu.cn/cy/cbb/index.htm) and [Dr. Zhifang Sui](https://icl.pku.edu.cn/cy/szf/ywb/index.htm). Prior to this, I earned my Bachelor's degree at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn) advised by [Dr. Xiaofeng Gao](http://www.cs.sjtu.edu.cn/~gao-xf/).
 
-My research interests mainly lie in natural language processing, especially 1) document-level and few-shot information extraction, and 2) effective and efficient pre-trained language model.
+I am Weiyai Luo (罗巍耀), a master student at the [Institute of Computational Linguistics](https://icl.pku.edu.cn/) in the [School of EECS, Peking University](https://eecs.pku.edu.cn/), advised by [Dr. Zhifang Sui](https://icl.pku.edu.cn/cy/szf/ywb/index.htm) and [Dr. Baobao Chang](https://icl.pku.edu.cn/cy/cbb/index.htm). Prior to this, I earned my Bachelor's degree at [Northeastern University](https://www.neu.edu.cn) advised by [Dr. Shi Feng](http://faculty.neu.edu.cn/fengshi/).
 
-<font color=red ><b> I am actively seeking for engineer or researcher position (graduate in 2023). Please drop me an email (A@B,A=runxinxu,B=gmail.com) if you want to chat.</b></font>
+My research interests mainly lie in natural language processing, especially 1) Large-scale pre-training language model, and 2)  So on ?
+
+<font color=red ><b> I am actively seeking for engineer or researcher position (graduate in 2025). Please drop me an email (A@B,A=luoweiyao993,B=gmail.com) if you want to chat.</b></font>
 
 ----------------------------
 
 # Education
 
-[**Peking University**](https://www.pku.edu.cn/), *Sep. 2020 - Jun. 2023 (expected)*
+[**Peking University**](https://www.pku.edu.cn/), *Sep. 2022 - Jun. 2025 (expected)*
 
-- Master student at the [School of EECS](https://eecs.pku.edu.cn/).
+- Master student at the [School of SS](https://ss.pku.edu.cn/).
 - Advised by [Dr. Baobao Chang](https://icl.pku.edu.cn/cy/cbb/index.htm) and [Dr. Zhifang Sui](https://icl.pku.edu.cn/cy/szf/ywb/index.htm) in [Institute of Computational Linguistics](https://icl.pku.edu.cn/).
 
-[**Shanghai Jiao Tong University**](https://www.sjtu.edu.cn/), *Sep. 2016 - Jun. 2020*
+[**Northeastern University**](https://www.neu.edu.cn/), *Sep. 2018 - Jun. 2022*
 
-- Bachelor student at the [School of Cyber Science and Engineering](https://infosec.sjtu.edu.cn/).
-- Member of [Advanced Network Laboratory](http://anl.sjtu.edu.cn/) advised by [Dr. Xiaofeng Gao](http://www.cs.sjtu.edu.cn/~gao-xf/).
+- Bachelor student at the [School of Computer Science and Engineering](http://www.cse.neu.edu.cn/).
+- Member of [NEU Data Mining group](https://neu-datamining.github.io/) advised by [Dr. Shi Feng](http://faculty.neu.edu.cn/fengshi/).
 
 ----------------------------
 
@@ -57,7 +58,7 @@ My research interests mainly lie in natural language processing, especially 1) d
 - Research Intern advised by [Dr. Lei Li](https://lileicc.github.io), [Dr. Mingxuan Wang](https://mingxuan.github.io), and Jun Cao.
 - Research topic: Information Extraction, Machine Translation.
 
-[**Microsoft C+AI**](https://www.microsoftpartnercommunity.com/t5/Cloud-AI/ct-p/cloud-ai), *July. 2019 -- October. 2019*
+[**Microsoft Research Asia**](https://www.microsoftpartnercommunity.com/t5/Cloud-AI/ct-p/cloud-ai), *July. 2019 -- October. 2019*
 
 - Software Design Engineer Intern advised by [Rome Li](https://github.com/akaroml), [Jinbo Wang](https://github.com/testforstephen), and [Yan Zhang](https://github.com/Eskibear).
 - Topic: develop a vscode code extension [vscode-maven](https://github.com/microsoft/vscode-maven/graphs/contributors).

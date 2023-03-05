@@ -166,11 +166,7 @@ Preprint.
 - [Arawana scholarship](https://jjh.jinlongyu.cn/project/index.aspx?NC=105003002).  *2017*.
 - [Meritorious Winner in Interdisciplinary Contest In Modeling ](https://www.comap.com/undergraduate/contests/)(top 8% of 11262 teams).  *2018*
 
-----------------------------
 
-# Teaching Experience
-
-- Introduction to Computing (Category C), Teaching Assistant, *Fall 2020*
 
 <!-- ----------------------------
 
@@ -183,5 +179,5 @@ Preprint.
 
 # Contact Me
 
-- Email: runxinxu AT gmail DOT com
+- Email: luoweiyao993 AT gmail DOT com
 - Links: [GitHub](https://github.com/RunxinXu)

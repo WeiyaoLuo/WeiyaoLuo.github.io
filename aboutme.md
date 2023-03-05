@@ -12,7 +12,7 @@ published: true
 
 ----------------------------
 
-<!-- <img align="left" src="/img/myphoto.jpeg" height="290" width="240" style="margin-right:50px;border:4px solid #ddd;border-radius:4px"> -->
+<!-- <img align="left" src="/img/DJI_0500.jpg" height="290" width="240" style="margin-right:50px;border:4px solid #ddd;border-radius:4px"> -->
 
 <div align=center>
 <img src="/img/photo2mini.jpeg" height="290" width="450">

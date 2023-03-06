@@ -69,8 +69,8 @@ My research interests mainly lie in natural language processing, especially 1) L
 
 <sup>*</sup> means equal contribution.
 
-From Dense to Sparse: Contrastive Pruning for Better Pre-trained Language Model Compression. \[[PDF](https://arxiv.org/abs/2112.07198)\] \[[code](https://github.com/RunxinXu/ContrastivePruning)\] \\
-**Runxin Xu**<sup>*</sup>, Fuli Luo<sup>*</sup>, Chengyu Wang, Baobao Chang, Jun Huang, Songfang Huang, Fei Huang. \\
+<!-- From Dense to Sparse: Contrastive Pruning for Better Pre-trained Language Model Compression. \[[PDF](https://arxiv.org/abs/2112.07198)\] \[[code](https://github.com/RunxinXu/ContrastivePruning)\] \\
+<!-- **Runxin Xu**<sup>*</sup>, Fuli Luo<sup>*</sup>, Chengyu Wang, Baobao Chang, Jun Huang, Songfang Huang, Fei Huang. \\
 AAAI2022 (Oral).
 
 S<sup>4</sup>-Tuning: A Simple Cross-lingual Sub-network Tuning Method. \[[PDF](https://aclanthology.org/2022.acl-short.58.pdf)\] \\
@@ -108,9 +108,9 @@ WMT@EMNLP2020. \\
 
 Xiaomingbot: A Multilingual Robot News Reporter \[[PDF](https://www.aclweb.org/anthology/2020.acl-demos.1.pdf)\] \[[Report](https://syncedreview.com/2020/07/21/meet-bytedance-ais-xiaomingbot-worlds-first-multilingual-and-multimodal-ai-news-agent)\] \[[URL](https://xiaomingbot.github.io)\] \[[Youtube](https://www.youtube.com/watch?v=zNfaj_DV6-E)\] \\
 **Runxin Xu**, Jun Cao, Mingxuan Wang, Jiaze Chen, Hao Zhou, Ying Zeng, Yuping Wang, Li Chen, Xiang Yin, Xijin Zhang, Songcheng Jiang, Yuxuan Wang, Lei Li. \\
-ACL2020, System Demonstrations.
+ACL2020, System Demonstrations. -->
 
-Focus on the Target’s Vocabulary: Masked Label Smoothing for Machine Translation. \[[PDF](https://arxiv.org/pdf/2203.02889.pdf)\] \[[code](https://github.com/PKUnlp-icler/MLS)\] \\
+<!-- Focus on the Target’s Vocabulary: Masked Label Smoothing for Machine Translation. \[[PDF](https://arxiv.org/pdf/2203.02889.pdf)\] \[[code](https://github.com/PKUnlp-icler/MLS)\] \\
 Liang Chen, **Runxin Xu**, Baobao Chang. \\
 ACL2022.
 
@@ -140,7 +140,7 @@ Preprint.
 
 Adaptive Gradient Methods Can Be Provably Faster than SGD after Finite Epochs. \[[PDF](https://arxiv.org/pdf/2006.07037.pdf)\] \\
 Xunpeng Huang, Hao Zhou, **Runxin Xu**, Zhe Wang, Lei Li. \\
-Preprint.
+Preprint. --> -->
 
 ----------------------------
 

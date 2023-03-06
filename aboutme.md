@@ -42,7 +42,7 @@ My research interests mainly lie in natural language processing, especially 1) L
 ----------------------------
 
 # Experience
-
+<!-- 
 **ByteDance Search**, *December. 2021 -- Now *
 
 - E-Commerce in Douyin Search.
@@ -56,9 +56,9 @@ My research interests mainly lie in natural language processing, especially 1) L
 [**ByteDance AI Lab**](https://ailab.bytedance.com), *Nov. 2019 -- Jan. 2021*
 
 - Research Intern advised by [Dr. Lei Li](https://lileicc.github.io), [Dr. Mingxuan Wang](https://mingxuan.github.io), and Jun Cao.
-- Research topic: Information Extraction, Machine Translation.
+- Research topic: Information Extraction, Machine Translation. -->
 
-[**Microsoft Research Asia**](https://www.microsoftpartnercommunity.com/t5/Cloud-AI/ct-p/cloud-ai), *July. 2019 -- October. 2019*
+[**Microsoft Research Asia**](https://www.microsoft.com/en-us/research/group/natural-language-computing/), *Dec. 2022 -- Now*
 
 - Software Design Engineer Intern advised by [Rome Li](https://github.com/akaroml), [Jinbo Wang](https://github.com/testforstephen), and [Yan Zhang](https://github.com/Eskibear).
 - Topic: develop a vscode code extension [vscode-maven](https://github.com/microsoft/vscode-maven/graphs/contributors).
@@ -140,7 +140,7 @@ Preprint.
 
 Adaptive Gradient Methods Can Be Provably Faster than SGD after Finite Epochs. \[[PDF](https://arxiv.org/pdf/2006.07037.pdf)\] \\
 Xunpeng Huang, Hao Zhou, **Runxin Xu**, Zhe Wang, Lei Li. \\
-Preprint. --> -->
+Preprint. --> 
 
 ----------------------------
 

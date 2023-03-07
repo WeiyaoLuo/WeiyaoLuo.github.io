@@ -60,7 +60,7 @@ My research interests mainly lie in natural language processing, especially 1) L
 
 [**Microsoft Research Asia, NLC Group**](https://www.microsoft.com/en-us/research/group/natural-language-computing/), *Dec. 2022 -- Now*
 
-- Research Intern advised by [Tengchao Lv](), and [Furu Wei](https://thegenerality.com/).
+- Research Intern advised by [Tengchao Lv], and [Furu Wei](https://thegenerality.com/).
 - Topic: Large Language Model, DocumentAI.
 
 ----------------------------

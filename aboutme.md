@@ -58,7 +58,7 @@ My research interests mainly lie in natural language processing, especially 1) L
 - Research Intern advised by [Dr. Lei Li](https://lileicc.github.io), [Dr. Mingxuan Wang](https://mingxuan.github.io), and Jun Cao.
 - Research topic: Information Extraction, Machine Translation. -->
 
-[**Microsoft Research Asia**](https://www.microsoft.com/en-us/research/group/natural-language-computing/), *Dec. 2022 -- Now*
+[**Microsoft Research Asia NLC**](https://www.microsoft.com/en-us/research/group/natural-language-computing/), *Dec. 2022 -- Now*
 
 - Software Design Engineer Intern advised by [Rome Li](https://github.com/akaroml), [Jinbo Wang](https://github.com/testforstephen), and [Yan Zhang](https://github.com/Eskibear).
 - Topic: develop a vscode code extension [vscode-maven](https://github.com/microsoft/vscode-maven/graphs/contributors).

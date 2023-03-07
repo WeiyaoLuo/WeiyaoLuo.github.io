@@ -58,7 +58,7 @@ My research interests mainly lie in natural language processing, especially 1) L
 - Research Intern advised by [Dr. Lei Li](https://lileicc.github.io), [Dr. Mingxuan Wang](https://mingxuan.github.io), and Jun Cao.
 - Research topic: Information Extraction, Machine Translation. -->
 
-[**Microsoft Research Asia NLC**](https://www.microsoft.com/en-us/research/group/natural-language-computing/), *Dec. 2022 -- Now*
+[**Microsoft Research Asia, NLC Group**](https://www.microsoft.com/en-us/research/group/natural-language-computing/), *Dec. 2022 -- Now*
 
 - Research Intern advised by [Tengchao Lv](), and [Furu Wei](https://thegenerality.com/).
 - Topic: Large Language Model, DocumentAI.

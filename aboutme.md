@@ -60,8 +60,8 @@ My research interests mainly lie in natural language processing, especially 1) L
 
 [**Microsoft Research Asia NLC**](https://www.microsoft.com/en-us/research/group/natural-language-computing/), *Dec. 2022 -- Now*
 
-- Software Design Engineer Intern advised by [Rome Li](https://github.com/akaroml), [Jinbo Wang](https://github.com/testforstephen), and [Yan Zhang](https://github.com/Eskibear).
-- Topic: develop a vscode code extension [vscode-maven](https://github.com/microsoft/vscode-maven/graphs/contributors).
+- Research Intern advised by [Tengchao Lv](), and [Furu Wei](https://thegenerality.com/).
+- Topic: Large Language Model, DocumentAI.
 
 ----------------------------
 

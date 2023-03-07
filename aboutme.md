@@ -167,7 +167,10 @@ Preprint. -->
 - [Meritorious Winner in Interdisciplinary Contest In Modeling ](https://www.comap.com/undergraduate/contests/)(top 8% of 11262 teams).  *2018* -->
 
 - National scholarship.  *2021*.
-- [Meritorious Winner in Interdisciplinary Contest In Modeling ](https://www.comap.com/undergraduate/contests/)(top 8% of 11262 teams).  *2020*
+- Outstanding Graduates in Northeastern University.  *2022*
+- A-class scholarship in Northeastern University. *2021*.
+- B-class scholarship in Northeasterng University.  *2020*, *2019*.
+- [Meritorious Winner in Interdisciplinary Contest In Modeling ](https://www.comap.com/undergraduate/contests/)(top 8% of 10053 teams).  *2020*
 
 <!-- ----------------------------
 

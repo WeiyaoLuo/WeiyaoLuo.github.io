@@ -19,9 +19,9 @@ published: true
 </div>
 请注意：本页面内容还在建设中，所有信息均不可靠，请退出。
 
-I am Weiyai Luo (罗巍耀), a master student at the [Institute of Computational Linguistics](https://icl.pku.edu.cn/) in the [School of EECS, Peking University](https://eecs.pku.edu.cn/), advised by [Dr. Zhifang Sui](https://icl.pku.edu.cn/cy/szf/ywb/index.htm) and [Dr. Baobao Chang](https://icl.pku.edu.cn/cy/cbb/index.htm). Prior to this, I earned my Bachelor's degree at [Northeastern University](https://www.neu.edu.cn) advised by [Dr. Shi Feng](http://faculty.neu.edu.cn/fengshi/).
+I am Weiyai Luo (罗巍耀), a master student at the [Institute of Computational Linguistics](https://icl.pku.edu.cn/) in the [School of SS, Peking University](https://ss.pku.edu.cn/), advised by [Dr. Zhifang Sui](https://icl.pku.edu.cn/cy/szf/ywb/index.htm) and [Dr. Baobao Chang](https://icl.pku.edu.cn/cy/cbb/index.htm). Prior to this, I earned my Bachelor's degree at [Northeastern University](https://www.neu.edu.cn) advised by [Dr. Shi Feng](http://faculty.neu.edu.cn/fengshi/).
 
-My research interests mainly lie in natural language processing, especially 1) Large-scale pre-training language model, and 2)  So on ?
+My research interests mainly lie in natural language processing, especially 1) Large-scale Pre-training Language Model, and 2)  So on ?
 
 <font color=red ><b> I am actively seeking for engineer or researcher position (graduate in 2025). Please drop me an email (A@B,A=luoweiyao993,B=gmail.com) if you want to chat.</b></font>
 
@@ -32,7 +32,7 @@ My research interests mainly lie in natural language processing, especially 1) L
 [**Peking University**](https://www.pku.edu.cn/), *Sep. 2022 - Jun. 2025 (expected)*
 
 - Master student at the [School of SS](https://ss.pku.edu.cn/).
-- Advised by [Dr. Baobao Chang](https://icl.pku.edu.cn/cy/cbb/index.htm) and [Dr. Zhifang Sui](https://icl.pku.edu.cn/cy/szf/ywb/index.htm) in [Institute of Computational Linguistics](https://icl.pku.edu.cn/).
+- Advised by [Dr. Zhifang Sui](https://icl.pku.edu.cn/cy/szf/ywb/index.htm) and [Dr. Baobao Chang](https://icl.pku.edu.cn/cy/cbb/index.htm) in [Institute of Computational Linguistics](https://icl.pku.edu.cn/).
 
 [**Northeastern University**](https://www.neu.edu.cn/), *Sep. 2018 - Jun. 2022*
 
@@ -60,7 +60,7 @@ My research interests mainly lie in natural language processing, especially 1) L
 
 [**Microsoft Research Asia, NLC Group**](https://www.microsoft.com/en-us/research/group/natural-language-computing/), *Dec. 2022 -- Now*
 
-- Research Intern advised by [Tengchao Lv], and [Furu Wei](https://thegenerality.com/).
+- Research Intern advised by Tengchao Lv, and [Furu Wei](https://thegenerality.com/).
 - Topic: Large Language Model, DocumentAI.
 
 ----------------------------

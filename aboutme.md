@@ -17,7 +17,7 @@ published: true
 <div align=center>
 <img src="/img/DJI_0500.JPG" height="290" width="450">
 </div>
-请注意：本页面内容还在建设中，所有信息均不可靠，请退出。
+<!-- 请注意：本页面内容还在建设中，所有信息均不可靠，请退出。 -->
 
 I am Weiyai Luo (罗巍耀), a master student at the [Institute of Computational Linguistics](https://icl.pku.edu.cn/) in the [School of SS, Peking University](https://ss.pku.edu.cn/), advised by [Dr. Zhifang Sui](https://icl.pku.edu.cn/cy/szf/ywb/index.htm) and [Dr. Baobao Chang](https://icl.pku.edu.cn/cy/cbb/index.htm). Prior to this, I earned my Bachelor's degree at [Northeastern University](https://www.neu.edu.cn) advised by [Dr. Shi Feng](http://faculty.neu.edu.cn/fengshi/).
 

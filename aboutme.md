@@ -69,6 +69,11 @@ My research interests mainly lie in natural language processing, especially 1) L
 
 <sup>*</sup> means equal contribution.
 
+
+Kosmos-2.5: A Multimodal Literate Model. \[[PDF](https://arxiv.org/pdf/2309.11419.pdf)\] \\
+Tengchao Lv and Yupan Huang and Jingye Chen and Lei Cui and Shuming Ma and Yaoyao Chang and Shaohan Huang and Wenhui Wang and Li Dong and **Weiyao Luo** and Shaoxiang Wu and Guoxin Wang and Cha Zhang and Furu Wei. \\
+Preprint.
+
 <!-- From Dense to Sparse: Contrastive Pruning for Better Pre-trained Language Model Compression. \[[PDF](https://arxiv.org/abs/2112.07198)\] \[[code](https://github.com/RunxinXu/ContrastivePruning)\] \\
 <!-- **Runxin Xu**<sup>*</sup>, Fuli Luo<sup>*</sup>, Chengyu Wang, Baobao Chang, Jun Huang, Songfang Huang, Fei Huang. \\
 AAAI2022 (Oral).

@@ -71,7 +71,7 @@ My research interests mainly lie in natural language processing, especially 1) L
 
 
 Kosmos-2.5: A Multimodal Literate Model. \[[PDF](https://arxiv.org/pdf/2309.11419.pdf)\] \\
-Tengchao Lv and Yupan Huang and Jingye Chen and Lei Cui and Shuming Ma and Yaoyao Chang and Shaohan Huang and Wenhui Wang and Li Dong and **Weiyao Luo** and Shaoxiang Wu and Guoxin Wang and Cha Zhang and Furu Wei. \\
+Tengchao Lv, Yupan Huang, Jingye Chen, Lei Cui, Shuming Ma, Yaoyao Chang, Shaohan Huang, Wenhui Wang, Li Dong, **Weiyao Luo**, Shaoxiang Wu, Guoxin Wang, Cha Zhang, Furu Wei. \\
 Preprint.
 
 <!-- From Dense to Sparse: Contrastive Pruning for Better Pre-trained Language Model Compression. \[[PDF](https://arxiv.org/abs/2112.07198)\] \[[code](https://github.com/RunxinXu/ContrastivePruning)\] \\

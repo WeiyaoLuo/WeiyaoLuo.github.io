@@ -69,12 +69,12 @@ My research interests mainly lie in natural language processing, especially 1) L
 
 <sup>*</sup> means equal contribution.
 
-FaGANet: A Fact-Checking Model with Integrated Encoder Leveraging Graph Attention Network and Contextual Information.  \\
-**Weiyao Luo**, Junfeng Ran, Zailong Tian, Sujian Li, Zhifang Sui. \\
+FaGANet: A Fact-Checking Model with Integrated Encoder Leveraging Graph Attention Network and Contextual Information.  \
+**Weiyao Luo**, Junfeng Ran, Zailong Tian, Sujian Li, Zhifang Sui. \
 COLING2024.
 
-Kosmos-2.5: A Multimodal Literate Model. \[[PDF](https://arxiv.org/pdf/2309.11419.pdf)\] \\
-Tengchao Lv, Yupan Huang, Jingye Chen, Lei Cui, Shuming Ma, Yaoyao Chang, Shaohan Huang, Wenhui Wang, Li Dong, **Weiyao Luo**, Shaoxiang Wu, Guoxin Wang, Cha Zhang, Furu Wei. \\
+Kosmos-2.5: A Multimodal Literate Model. \[[PDF](https://arxiv.org/pdf/2309.11419.pdf)\] \
+Tengchao Lv, Yupan Huang, Jingye Chen, Lei Cui, Shuming Ma, Yaoyao Chang, Shaohan Huang, Wenhui Wang, Li Dong, **Weiyao Luo**, Shaoxiang Wu, Guoxin Wang, Cha Zhang, Furu Wei. \
 Preprint.
 
 <!-- From Dense to Sparse: Contrastive Pruning for Better Pre-trained Language Model Compression. \[[PDF](https://arxiv.org/abs/2112.07198)\] \[[code](https://github.com/RunxinXu/ContrastivePruning)\] \\

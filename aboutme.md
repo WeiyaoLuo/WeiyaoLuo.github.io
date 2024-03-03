@@ -73,6 +73,10 @@ FaGANet: A Fact-Checking Model with Integrated Encoder Leveraging Graph Attentio
 **Weiyao Luo**, Junfeng Ran, Zailong Tian, Sujian Li, Zhifang Sui. \
 COLING2024.
 
+PeriodicLoRA: Breaking the Low-Rank Bottleneck in LoRA Optimization. \[[PDF](https://arxiv.org/pdf/2402.16141.pdf)\] \
+Xiangdi Meng, Damai Dai, **Weiyao Luo**, Zhe Yang, Shaoxiang Wu, Xiaochen Wang, Peiyi Wang, Qingxiu Dong, Liang Chen, Zhifang Sui. \
+Preprint.
+
 Kosmos-2.5: A Multimodal Literate Model. \[[PDF](https://arxiv.org/pdf/2309.11419.pdf)\] \
 Tengchao Lv, Yupan Huang, Jingye Chen, Lei Cui, Shuming Ma, Yaoyao Chang, Shaohan Huang, Wenhui Wang, Li Dong, **Weiyao Luo**, Shaoxiang Wu, Guoxin Wang, Cha Zhang, Furu Wei. \
 Preprint.

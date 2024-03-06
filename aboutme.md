@@ -32,7 +32,7 @@ My research interests mainly lie in natural language processing, especially 1) L
 [**Peking University**](https://www.pku.edu.cn/), *Sep. 2022 - Jun. 2025 (expected)*
 
 - Master student at the [School of SS](https://ss.pku.edu.cn/).
-- Advised by [Dr. Zhifang Sui](https://icl.pku.edu.cn/cy/szf/ywb/index.htm) and [Dr. Baobao Chang](https://icl.pku.edu.cn/cy/cbb/index.htm) in [Institute of Computational Linguistics](https://icl.pku.edu.cn/).
+- Advised by [Dr. Zhifang Sui](https://icl.pku.edu.cn/cy/szf/ywb/index.htm) and [Dr. Sujian Li](https://cs.pku.edu.cn/info/1090/1793.htm) in [Institute of Computational Linguistics](https://icl.pku.edu.cn/).
 
 [**Northeastern University**](https://www.neu.edu.cn/), *Sep. 2018 - Jun. 2022*
 

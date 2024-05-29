@@ -63,13 +63,18 @@ My research interests mainly lie in natural language processing, especially 1) L
 - Research Intern advised by Tengchao Lv, and [Furu Wei](https://thegenerality.com/).
 - Topic: Large Language Model, DocumentAI.
 
+[**Tencent TEG, Hunyuan LLM**](https://www.reuters.com/technology/chinas-tencent-sets-up-team-develop-chatgpt-like-product-sources-2023-02-27/), *Sep. 2023 -- April. 2024*
+
+- Research Intern advised by Suncong Zheng.
+- Topic: Large Language Model.
+
 ----------------------------
 
 # Publications and Manuscripts
 
 <sup>*</sup> means equal contribution.
 
-FaGANet: A Fact-Checking Model with Integrated Encoder Leveraging Graph Attention Network and Contextual Information.  \
+FaGANet: A Fact-Checking Model with Integrated Encoder Leveraging Graph Attention Network and Contextual Information.  \[[PDF](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Rvinn1QAAAAJ&authuser=1&citation_for_view=Rvinn1QAAAAJ:d1gkVwhDpl0C)\] \
 **Weiyao Luo**, Junfeng Ran, Zailong Tian, Sujian Li, Zhifang Sui. \
 COLING2024.
 

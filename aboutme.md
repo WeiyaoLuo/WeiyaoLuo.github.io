@@ -15,7 +15,7 @@ published: true
 <!-- <img align="left" src="/img/DJI_0500.jpg" height="290" width="240" style="margin-right:50px;border:4px solid #ddd;border-radius:4px"> -->
 
 <div align=center>
-<img src="/img/DJI_0500.JPG" height="290" width="450">
+<img src="/img/FO2%3OYBRA0@(1TEIN9O}%G.jpg" height="450" width="450">
 </div>
 <!-- 请注意：本页面内容还在建设中，所有信息均不可靠，请退出。 -->
 

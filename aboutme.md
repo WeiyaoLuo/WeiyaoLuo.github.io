@@ -58,7 +58,7 @@ My research interests mainly lie in natural language processing, especially 1) L
 - Research Intern advised by [Dr. Lei Li](https://lileicc.github.io), [Dr. Mingxuan Wang](https://mingxuan.github.io), and Jun Cao.
 - Research topic: Information Extraction, Machine Translation. -->
 
-[**Tencent WXG, Channels Algorithm**](https://www.mihoyo.com/), *June. 2024 -- Now*
+[**Tencent WXG, Channels Algorithm**](https://weixin.qq.com/), *June. 2024 -- Now*
 
 - Intern.
 - Topic: LLM For Recommendation System.
@@ -94,9 +94,17 @@ PeriodicLoRA: Breaking the Low-Rank Bottleneck in LoRA Optimization. \[[PDF](htt
 Xiangdi Meng, Damai Dai, **Weiyao Luo**, Zhe Yang, Shaoxiang Wu, Xiaochen Wang, Peiyi Wang, Qingxiu Dong, Liang Chen, Zhifang Sui. \
 Preprint.
 
+Taking a Deep Breath: Enhancing Language Modeling of Large Language Models with Sentinel Tokens. \[[PDF](https://arxiv.org/abs/2406.10985)\] \
+**Weiyao Luo**, Suncong Zheng, Heming Xia, Weikang Wang, Yan Lei, Tianyu Liu, Shuang Chen, Zhifang Sui \
+Preprint.
+
 Kosmos-2.5: A Multimodal Literate Model. \[[PDF](https://arxiv.org/pdf/2309.11419.pdf)\] \
 Tengchao Lv, Yupan Huang, Jingye Chen, Lei Cui, Shuming Ma, Yaoyao Chang, Shaohan Huang, Wenhui Wang, Li Dong, **Weiyao Luo**, Shaoxiang Wu, Guoxin Wang, Cha Zhang, Furu Wei. \
 Preprint.
+
+BiSAGA: A Novel Bidirectional Sparse Graph Attention Adapter for Evidence-Based Fact-Checking \
+Junfeng Ran, Weiyao Luo, Guangxiang Zhao, Dawei Zhu, Zailong Tian, Longyun Wu, Hailiang Huang, Zhifang Sui, Sujian Li \
+Under review.
 
 <!-- From Dense to Sparse: Contrastive Pruning for Better Pre-trained Language Model Compression. \[[PDF](https://arxiv.org/abs/2112.07198)\] \[[code](https://github.com/RunxinXu/ContrastivePruning)\] \\
 <!-- **Runxin Xu**<sup>*</sup>, Fuli Luo<sup>*</sup>, Chengyu Wang, Baobao Chang, Jun Huang, Songfang Huang, Fei Huang. \\

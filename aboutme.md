@@ -15,7 +15,7 @@ published: true
 <!-- <img align="left" src="/img/DJI_0500.jpg" height="290" width="240" style="margin-right:50px;border:4px solid #ddd;border-radius:4px"> -->
 
 <div align=center>
-<img src="/img/milano.jpg" height="450" width="350">
+<img src="/img/milano.jpg" height="450" width="320">
 </div>
 <!-- 请注意：本页面内容还在建设中，所有信息均不可靠，请退出。 -->
 
@@ -58,15 +58,27 @@ My research interests mainly lie in natural language processing, especially 1) L
 - Research Intern advised by [Dr. Lei Li](https://lileicc.github.io), [Dr. Mingxuan Wang](https://mingxuan.github.io), and Jun Cao.
 - Research topic: Information Extraction, Machine Translation. -->
 
+[**Tencent WXG, **](https://www.mihoyo.com/), *June. 2024 -- Now*
+
+- Intern.
+- Topic: LLM For Recommendation System.
+
+[**MiHoYo**](https://www.mihoyo.com/), *March. 2024 -- June. 2024*
+
+- LLM Intern.
+- Topic: Role-play Large Language Model.
+
+[**Tencent TEG, Hunyuan LLM**](https://www.reuters.com/technology/chinas-tencent-sets-up-team-develop-chatgpt-like-product-sources-2023-02-27/), *Sep. 2023 -- March. 2024*
+
+- Research Intern advised by Suncong Zheng.
+- Topic: Large Language Model.
+
 [**Microsoft Research Asia, NLC Group**](https://www.microsoft.com/en-us/research/group/natural-language-computing/), *Dec. 2022 -- Aug. 2023*
 
 - Research Intern advised by Tengchao Lv, and [Furu Wei](https://thegenerality.com/).
 - Topic: Large Language Model, DocumentAI.
 
-[**Tencent TEG, Hunyuan LLM**](https://www.reuters.com/technology/chinas-tencent-sets-up-team-develop-chatgpt-like-product-sources-2023-02-27/), *Sep. 2023 -- April. 2024*
 
-- Research Intern advised by Suncong Zheng.
-- Topic: Large Language Model.
 
 ----------------------------
 

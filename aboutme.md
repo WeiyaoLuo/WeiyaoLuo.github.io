@@ -203,6 +203,8 @@ Preprint. -->
 - [Arawana scholarship](https://jjh.jinlongyu.cn/project/index.aspx?NC=105003002).  *2017*.
 - [Meritorious Winner in Interdisciplinary Contest In Modeling ](https://www.comap.com/undergraduate/contests/)(top 8% of 11262 teams).  *2018* -->
 
+
+- Merit Student of Peking University.  *2023*.
 - National scholarship.  *2021*.
 - Outstanding Graduates in Northeastern University.  *2022*
 - A-class scholarship in Northeastern University. *2021*.

@@ -103,7 +103,7 @@ Tengchao Lv, Yupan Huang, Jingye Chen, Lei Cui, Shuming Ma, Yaoyao Chang, Shaoha
 Preprint.
 
 BiSAGA: A Novel Bidirectional Sparse Graph Attention Adapter for Evidence-Based Fact-Checking \
-Junfeng Ran, Weiyao Luo, Guangxiang Zhao, Dawei Zhu, Zailong Tian, Longyun Wu, Hailiang Huang, Zhifang Sui, Sujian Li \
+Junfeng Ran, **Weiyao Luo**, Guangxiang Zhao, Dawei Zhu, Zailong Tian, Longyun Wu, Hailiang Huang, Zhifang Sui, Sujian Li \
 Under review.
 
 <!-- From Dense to Sparse: Contrastive Pruning for Better Pre-trained Language Model Compression. \[[PDF](https://arxiv.org/abs/2112.07198)\] \[[code](https://github.com/RunxinXu/ContrastivePruning)\] \\

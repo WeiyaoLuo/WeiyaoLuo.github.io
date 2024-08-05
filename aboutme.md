@@ -98,6 +98,10 @@ Taking a Deep Breath: Enhancing Language Modeling of Large Language Models with 
 **Weiyao Luo**, Suncong Zheng, Heming Xia, Weikang Wang, Yan Lei, Tianyu Liu, Shuang Chen, Zhifang Sui \
 Preprint.
 
+Leveraging Two-Stream Cause-Effect Relation for Emotion-Cause Analysis \
+Junfeng Ran, Zailong Tian, **Weiyao Luo**, Sujian Li \
+NLPCC2024.
+
 Kosmos-2.5: A Multimodal Literate Model. \[[PDF](https://arxiv.org/pdf/2309.11419.pdf)\] \
 Tengchao Lv, Yupan Huang, Jingye Chen, Lei Cui, Shuming Ma, Yaoyao Chang, Shaohan Huang, Wenhui Wang, Li Dong, **Weiyao Luo**, Shaoxiang Wu, Guoxin Wang, Cha Zhang, Furu Wei. \
 Preprint.

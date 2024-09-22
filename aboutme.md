@@ -58,7 +58,7 @@ My research interests mainly lie in natural language processing, especially 1) L
 - Research Intern advised by [Dr. Lei Li](https://lileicc.github.io), [Dr. Mingxuan Wang](https://mingxuan.github.io), and Jun Cao.
 - Research topic: Information Extraction, Machine Translation. -->
 
-[**Tencent WXG, Channels Algorithm**](https://weixin.qq.com/), *June. 2024 -- Now*
+[**Tencent WXG, Channels Algorithm（视频号）**](https://weixin.qq.com/), *June. 2024 -- Now*
 
 - Intern.
 - Topic: LLM For Recommendation System.

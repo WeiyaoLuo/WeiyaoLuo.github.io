@@ -63,14 +63,14 @@ My research interests mainly lie in natural language processing, especially 1) L
 - Intern.
 - Topic: LLM For Recommendation System.
 
-[**MiHoYo**](https://www.mihoyo.com/), *March. 2024 -- June. 2024*
+[**MiHoYo AI**](https://www.mihoyo.com/), *March. 2024 -- June. 2024*
 
 - LLM Intern.
 - Topic: Role-play Large Language Model.
 
 [**Tencent TEG, Hunyuan LLM**](https://www.reuters.com/technology/chinas-tencent-sets-up-team-develop-chatgpt-like-product-sources-2023-02-27/), *Sep. 2023 -- March. 2024*
 
-- Research Intern advised by Suncong Zheng.
+- Research Intern advised by Suncong Zheng and Di Wang.
 - Topic: Large Language Model.
 
 [**Microsoft Research Asia, NLC Group**](https://www.microsoft.com/en-us/research/group/natural-language-computing/), *Dec. 2022 -- Aug. 2023*
@@ -88,7 +88,7 @@ My research interests mainly lie in natural language processing, especially 1) L
 
 FaGANet: A Fact-Checking Model with Integrated Encoder Leveraging Graph Attention Network and Contextual Information.  \[[PDF](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Rvinn1QAAAAJ&authuser=1&citation_for_view=Rvinn1QAAAAJ:d1gkVwhDpl0C)\] \
 **Weiyao Luo**, Junfeng Ran, Zailong Tian, Sujian Li, Zhifang Sui. \
-COLING2024.
+**COLING2024(CCF-B)**.
 
 PeriodicLoRA: Breaking the Low-Rank Bottleneck in LoRA Optimization. \[[PDF](https://arxiv.org/pdf/2402.16141.pdf)\] \
 Xiangdi Meng, Damai Dai, **Weiyao Luo**, Zhe Yang, Shaoxiang Wu, Xiaochen Wang, Peiyi Wang, Qingxiu Dong, Liang Chen, Zhifang Sui. \
@@ -96,11 +96,11 @@ Preprint.
 
 Taking a Deep Breath: Enhancing Language Modeling of Large Language Models with Sentinel Tokens. \[[PDF](https://arxiv.org/abs/2406.10985)\] \
 **Weiyao Luo**, Suncong Zheng, Heming Xia, Weikang Wang, Yan Lei, Tianyu Liu, Shuang Chen, Zhifang Sui \
-Preprint.
+**EMNLP2024(CCF-A)**.
 
 Leveraging Two-Stream Cause-Effect Relation for Emotion-Cause Analysis \
 Junfeng Ran, Zailong Tian, **Weiyao Luo**, Sujian Li \
-NLPCC2024.
+**NLPCC2024(CCF-C)**.
 
 Kosmos-2.5: A Multimodal Literate Model. \[[PDF](https://arxiv.org/pdf/2309.11419.pdf)\] \
 Tengchao Lv, Yupan Huang, Jingye Chen, Lei Cui, Shuming Ma, Yaoyao Chang, Shaohan Huang, Wenhui Wang, Li Dong, **Weiyao Luo**, Shaoxiang Wu, Guoxin Wang, Cha Zhang, Furu Wei. \

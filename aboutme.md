@@ -106,9 +106,13 @@ Kosmos-2.5: A Multimodal Literate Model. \[[PDF](https://arxiv.org/pdf/2309.1141
 Tengchao Lv, Yupan Huang, Jingye Chen, Lei Cui, Shuming Ma, Yaoyao Chang, Shaohan Huang, Wenhui Wang, Li Dong, **Weiyao Luo**, Shaoxiang Wu, Guoxin Wang, Cha Zhang, Furu Wei. \
 Preprint.
 
+Beyond Single Frames: Can LMMs Comprehend Implicit Narratives in Comic Strip? \[[PDF](https://arxiv.org/pdf/2502.13925.pdf)\] \
+Xiaochen Wang, Heming Xia, Jialin Song, Longyu Guan, Qingxiu Dong, Yixin Yang, **Weiyao Luo**, Yifan Pu, Yiru Wang, Xiangdi Meng, Wenjie Li, Zhifang Sui \
+Preprint
+
 BiSAGA: A Novel Bidirectional Sparse Graph Attention Adapter for Evidence-Based Fact-Checking \
 Junfeng Ran, **Weiyao Luo**, Guangxiang Zhao, Dawei Zhu, Zailong Tian, Longyun Wu, Hailiang Huang, Zhifang Sui, Sujian Li \
-Under review.
+CCL 2025.
 
 <!-- From Dense to Sparse: Contrastive Pruning for Better Pre-trained Language Model Compression. \[[PDF](https://arxiv.org/abs/2112.07198)\] \[[code](https://github.com/RunxinXu/ContrastivePruning)\] \\
 <!-- **Runxin Xu**<sup>*</sup>, Fuli Luo<sup>*</sup>, Chengyu Wang, Baobao Chang, Jun Huang, Songfang Huang, Fei Huang. \\
@@ -208,6 +212,7 @@ Preprint. -->
 - [Meritorious Winner in Interdisciplinary Contest In Modeling ](https://www.comap.com/undergraduate/contests/)(top 8% of 11262 teams).  *2018* -->
 
 
+- Outstanding Graduate of Peking University.  *2025*.
 - Merit Student of Peking University.  *2023*.
 - National scholarship.  *2021*.
 - Outstanding Graduates in Northeastern University.  *2022*

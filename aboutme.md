@@ -21,7 +21,7 @@ published: true
 
 I am Weiyao Luo (罗巍耀), a master student at the [Institute of Computational Linguistics](https://icl.pku.edu.cn/) in the [School of SS, Peking University](https://ss.pku.edu.cn/), advised by [Dr. Zhifang Sui](https://icl.pku.edu.cn/cy/szf/ywb/index.htm) and [Dr. Sujian Li](https://cs.pku.edu.cn/info/1090/1793.htm). Prior to this, I earned my Bachelor's degree at [Northeastern University](https://www.neu.edu.cn) advised by [Dr. Shi Feng](http://faculty.neu.edu.cn/fengshi/).
 
-My research interests mainly lie in natural language processing, especially 1) Large-scale Pre-training Language Model, and 2)  Multimodality
+My research interests mainly lie in natural language processing, especially 1) Large-scale Pre-training Language Model, and 2)  RL, Role-Play
 
 <font color=red ><b> I am actively seeking for engineer or researcher position (graduate in 2025). Please drop me an email (A@B,A=luoweiyao993,B=gmail.com) if you want to chat.</b></font>
 
@@ -58,7 +58,7 @@ My research interests mainly lie in natural language processing, especially 1) L
 - Research Intern advised by [Dr. Lei Li](https://lileicc.github.io), [Dr. Mingxuan Wang](https://mingxuan.github.io), and Jun Cao.
 - Research topic: Information Extraction, Machine Translation. -->
 
-[**Tencent WXG, Channels Algorithm（视频号）**](https://weixin.qq.com/), *June. 2024 -- Now*
+[**Tencent WXG, Channels Algorithm（视频号）**](https://weixin.qq.com/), *June. 2024 -- Oct. 2024*
 
 - Intern.
 - Topic: LLM For Recommendation System.
